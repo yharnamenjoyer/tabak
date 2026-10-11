@@ -47,7 +47,10 @@ export function scorePair(a, b, ctx) {
   for (const t of [a, b]) {
     const ts = ctx.stats.tobaccos.get(t.id);
     if (ts) score += (ts.up - ts.down) * 0.25;
+    // Особиста оцінка табаку: 5★ → +1.2, 4★ → +0.6, 3★ → 0, 2★ → -1.5
+    if (t.rating) score += t.rating >= 3 ? (t.rating - 3) * 0.6 : -1.5;
   }
+  if (a.rating >= 4 && b.rating >= 4) reasons.push('обидва з твого топу');
 
   // Штраф за нещодавно курений мікс: що свіжіше, то сильніший.
   const lastSmoked = ctx.lastSmoked.get(key);
@@ -71,12 +74,14 @@ function compatLabel(compat) {
 
 /**
  * Повертає мікс { a, b, key, compat, label, reasons } або { error }.
+ * pool — табаки, з яких обирати (вже відфільтровані за джерелом: вдома / топ / магазин).
+ * Табаки з оцінкою 1–2★ («не сподобались») не пропонуються.
  * excludeKey — пара, яку зараз показано (щоб «Інший мікс» не повторював її).
  */
-export function pickMix(tobaccos, history, moodId = 'any', excludeKey = null) {
-  const inStock = tobaccos.filter((t) => t.inStock && t.tags.length);
+export function pickMix(pool, history, moodId = 'any', excludeKey = null) {
+  const inStock = pool.filter((t) => t.tags.length && !(t.rating && t.rating <= 2));
   if (inStock.length < 2) {
-    return { error: 'Додай хоча б 2 табаки, що є вдома (з категоріями смаку).' };
+    return { error: 'Тут замало табаків для міксу — потрібно хоча б 2.' };
   }
 
   const mood = MOOD_BY_ID[moodId];
@@ -112,7 +117,7 @@ export function pickMix(tobaccos, history, moodId = 'any', excludeKey = null) {
   }
 
   // Зважений випадковий вибір: що вищий score, то більший шанс, але слабші пари теж іноді випадають.
-  const best = Math.max(...candidates.map((c) => c.score));
+  const best = candidates.reduce((m, c) => Math.max(m, c.score), -Infinity);
   const weights = candidates.map((c) => Math.exp((c.score - best) * TEMPERATURE));
   const total = weights.reduce((s, w) => s + w, 0);
   let r = Math.random() * total;

@@ -1,21 +1,32 @@
-import { CATEGORIES, CATEGORY_BY_ID, MOODS, MOOD_BY_ID, STRENGTHS } from './flavors.js';
-import { pickMix } from './mixer.js';
+import { CATEGORY_BY_ID, MOODS, MOOD_BY_ID, STRENGTHS } from './flavors.js';
+import { pickMix, pairKey } from './mixer.js';
+import { BRANDS, loadCatalog, catalogInfo, allTobaccos } from './catalog.js';
 import * as store from './store.js';
 
 const $ = (sel) => document.querySelector(sel);
-const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
 const ui = {
   mood: 'any',
-  mix: null,           // поточний показаний мікс
+  mix: null,             // поточний показаний мікс
   search: '',
-  stockFilter: 'all',  // all | in | out
-  historyFilter: 'all', // all | up | down | none
-  editingId: null,
-  formTags: [],
+  brand: 'all',
+  catFilter: 'all',      // all | home | rated | shop
+  historyFilter: 'all',  // all | up | down | none
+  detailId: null,
+  draftRating: 0,
+  catalogError: null,
 };
 
-// ---------- Навігація ----------
+// Табаки рахуються заново при кожному рендері: каталог + мої оцінки/коментарі/«вдома».
+let tobaccos = [];
+let byId = new Map();
+function refreshTobaccos() {
+  tobaccos = allTobaccos(store.getState().my);
+  byId = new Map(tobaccos.map((t) => [t.id, t]));
+}
+
+// ---------- Загальне ----------
 
 function showTab(name) {
   document.querySelectorAll('.tab').forEach((el) => el.classList.toggle('active', el.id === `tab-${name}`));
@@ -33,12 +44,17 @@ function toast(text) {
   toastTimer = setTimeout(() => el.classList.remove('show'), 2200);
 }
 
-const tagsText = (tags) => tags.map((id) => {
+const tagsText = (tags) => (tags || []).map((id) => {
   const c = CATEGORY_BY_ID[id];
   return c ? `${c.emoji} ${c.label}` : id;
 }).join(' · ');
 
 const strengthLabel = (id) => (id ? STRENGTHS.find((s) => s.id === id)?.label : '');
+const brandLine = (t) => [t.brand, t.line].filter(Boolean).join(' · ');
+
+function starsText(rating) {
+  return rating ? `<span class="stars-mini" aria-label="${rating} з 5">${'★'.repeat(rating)}<span class="off">${'★'.repeat(5 - rating)}</span></span>` : '';
+}
 
 function formatDate(ts) {
   const d = new Date(ts);
@@ -50,7 +66,34 @@ function formatDate(ts) {
   return d.toLocaleDateString('uk-UA', { day: 'numeric', month: 'long' }) + `, ${time}`;
 }
 
+// Відкрити картку табаку по кліку на будь-який елемент з data-open.
+document.addEventListener('click', (e) => {
+  if (e.target.closest('[data-home]')) return;
+  const el = e.target.closest('[data-open]');
+  if (el) openDetail(el.dataset.open);
+});
+
 // ---------- Мікс ----------
+
+const SOURCES = [
+  { id: 'home', label: '🏠 Вдома', filter: (t) => t.home },
+  { id: 'top', label: '⭐ Мій топ', filter: (t) => t.rating >= 4 },
+  { id: 'shop', label: '🛒 Магазин', filter: (t) => t.inStock && !t.gone },
+];
+
+function renderSources() {
+  const cur = store.getState().settings.source;
+  $('#sources').innerHTML = SOURCES.map((s) => {
+    const n = tobaccos.filter(s.filter).length;
+    return `<button class="chip ${s.id === cur ? 'active' : ''}" data-source="${s.id}">${s.label} <span class="count">${n}</span></button>`;
+  }).join('');
+}
+$('#sources').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-source]');
+  if (!btn) return;
+  ui.mix = null;
+  store.setSource(btn.dataset.source);
+});
 
 function renderMoods() {
   $('#moods').innerHTML = MOODS.map((m) =>
@@ -64,19 +107,33 @@ $('#moods').addEventListener('click', (e) => {
   renderMoods();
 });
 
+const SOURCE_EMPTY = {
+  home: 'Відміть у «Каталозі» хоча б 2 табаки, які є вдома (кнопка 🏠).',
+  top: 'Поки замало табаків з оцінкою 4–5★. Оціни їх у «Каталозі».',
+  shop: 'Каталог магазину ще не завантажився.',
+};
+
 function doMix(excludeKey = null) {
-  const { tobaccos, history } = store.getState();
-  ui.mix = pickMix(tobaccos, history, ui.mood, excludeKey);
+  const source = SOURCES.find((s) => s.id === store.getState().settings.source) || SOURCES[0];
+  const pool = tobaccos.filter(source.filter);
+  ui.mix = pool.length < 2
+    ? { error: SOURCE_EMPTY[source.id], goto: 'catalog' }
+    : pickMix(pool, store.getState().history, ui.mood, excludeKey);
   renderMix();
 }
 $('#btn-mix').addEventListener('click', () => doMix());
 
+// «№25 Lemon Yougurt (Лимон Йогурт)» → «№25 Lemon Yougurt»: смак і так видно нижче.
+const shortName = (name) => name.replace(/\s*\([^)]*\)\s*$/, '') || name;
+
 function tobaccoBlock(t) {
-  return `<div class="mix-tobacco">
-    <div class="brand">${esc(t.brand || ' ')}</div>
-    <div class="name">${esc(t.name)}</div>
-    <div class="tags">${esc(tagsText(t.tags))}</div>
-  </div>`;
+  return `<button type="button" class="mix-tobacco" data-open="${esc(t.id)}">
+    <div class="brand">${esc(brandLine(t))}</div>
+    <div class="name">${esc(shortName(t.name))}</div>
+    <div class="flavor">${esc(t.flavor || tagsText(t.tags))}</div>
+    ${t.rating ? `<div>${starsText(t.rating)}</div>` : ''}
+    <div class="meta">${t.home ? '🏠 вдома' : t.inStock && t.price ? `🛒 ${t.price} грн` : t.gone ? 'немає в каталозі' : 'немає в наявності'}</div>
+  </button>`;
 }
 
 function renderMix() {
@@ -84,14 +141,16 @@ function renderMix() {
   const m = ui.mix;
   if (!m) { el.innerHTML = ''; return; }
   if (m.error) {
-    const noTobaccos = store.getState().tobaccos.length === 0;
     el.innerHTML = `<div class="card empty">${esc(m.error)}
-      ${noTobaccos ? '<br><button class="btn" data-goto="collection">Перейти до колекції</button>' : ''}</div>`;
+      ${m.goto ? '<br><button class="btn" data-goto="catalog">Відкрити каталог</button>' : ''}</div>`;
     return;
   }
+  // Оновити дані табаків (могли змінитися оцінки), поки мікс показано.
+  const a = byId.get(m.a.id) || m.a;
+  const b = byId.get(m.b.id) || m.b;
   const mood = MOOD_BY_ID[ui.mood];
   el.innerHTML = `<div class="card mix-card">
-    <div class="mix-pair">${tobaccoBlock(m.a)}<div class="mix-plus">+</div>${tobaccoBlock(m.b)}</div>
+    <div class="mix-pair">${tobaccoBlock(a)}<div class="mix-plus">+</div>${tobaccoBlock(b)}</div>
     <div class="ratio"><span></span><span></span></div>
     <div class="ratio-label"><span>50%</span><span>50%</span></div>
     <p class="mix-meta"><span class="label">${esc(m.label)}</span>
@@ -105,7 +164,7 @@ function renderMix() {
   </div>`;
   $('#btn-another').onclick = () => doMix(m.key);
   $('#btn-smoke').onclick = () => {
-    store.addHistory(m.a, m.b, ui.mood);
+    store.addHistory(a, b, ui.mood);
     ui.mix = null;
     renderMix();
     toast('Записав в історію. Гарного кальяну! 💨');
@@ -138,133 +197,190 @@ $('#rate-last').addEventListener('click', (e) => {
   toast(btn.dataset.rate === '1' ? 'Запам\'ятав — буду пропонувати частіше' : 'Запам\'ятав — пропонуватиму рідше');
 });
 
-// ---------- Колекція ----------
+// ---------- Каталог ----------
 
-const STOCK_FILTERS = [
-  { id: 'all', label: 'Усі' },
-  { id: 'in', label: 'Є вдома' },
-  { id: 'out', label: 'Закінчились' },
+const CAT_FILTERS = [
+  { id: 'all', label: 'Усі', filter: () => true },
+  { id: 'home', label: '🏠 Вдома', filter: (t) => t.home },
+  { id: 'rated', label: '⭐ Оцінені', filter: (t) => t.rating > 0 },
+  { id: 'shop', label: '✅ Є в магазині', filter: (t) => t.inStock && !t.gone },
 ];
 
-function renderCollection() {
-  const { tobaccos } = store.getState();
-  $('#stock-filter').innerHTML = STOCK_FILTERS.map((f) =>
-    `<button class="chip ${f.id === ui.stockFilter ? 'active' : ''}" data-stock="${f.id}">${f.label}</button>`
-  ).join('');
-
-  const q = ui.search.trim().toLowerCase();
-  const list = tobaccos
-    .filter((t) => ui.stockFilter === 'all' || (ui.stockFilter === 'in') === t.inStock)
-    .filter((t) => !q || `${t.brand} ${t.name}`.toLowerCase().includes(q))
-    .sort((a, b) => (b.inStock - a.inStock) || store.displayName(a).localeCompare(store.displayName(b), 'uk'));
-
-  const el = $('#collection-list');
-  if (!tobaccos.length) {
-    el.innerHTML = `<div class="empty">Колекція порожня.<br>Додай табаки, які є в тебе вдома.
-      <br><button class="btn" id="btn-examples">Додати приклади для тесту</button></div>`;
-    $('#btn-examples').onclick = () => { store.addExamples(); toast('Додав 10 прикладів'); };
-    return;
-  }
-  if (!list.length) { el.innerHTML = '<div class="empty">Нічого не знайдено</div>'; return; }
-
-  el.innerHTML = `<p class="muted">Є вдома: ${tobaccos.filter((t) => t.inStock).length} з ${tobaccos.length}</p>` +
-    list.map((t) => `<div class="list-item ${t.inStock ? '' : 'out'}">
-      <div class="main">
-        <div class="title">${esc(t.name)}${t.brand ? ` <span class="muted">· ${esc(t.brand)}</span>` : ''}</div>
-        <div class="sub">${esc(tagsText(t.tags))}${t.strength ? ` · ${esc(strengthLabel(t.strength))}` : ''}</div>
-      </div>
-      <div class="actions">
-        <button class="stock-toggle ${t.inStock ? 'on' : ''}" data-toggle="${t.id}">${t.inStock ? '✓ Є' : 'Немає'}</button>
-        <button class="btn btn-ghost" data-edit="${t.id}" aria-label="Редагувати">✏️</button>
-      </div>
-    </div>`).join('');
+function tobaccoRow(t) {
+  const right = t.gone
+    ? '<span class="muted small">зник з каталогу</span>'
+    : t.inStock ? `<span class="price">${t.price} ₴</span>` : '<span class="muted small">немає</span>';
+  return `<div class="list-item tob ${t.inStock || t.home ? '' : 'out'}" data-open="${esc(t.id)}">
+    ${t.img ? `<img class="thumb" src="${esc(t.img)}" alt="" loading="lazy" width="48" height="48">` : '<div class="thumb"></div>'}
+    <div class="main">
+      <div class="title">${esc(t.name)}</div>
+      <div class="sub">${esc(brandLine(t))}${t.strength ? ` · ${esc(strengthLabel(t.strength))}` : ''}</div>
+      <div class="sub">${esc(t.flavor || tagsText(t.tags))}</div>
+      ${t.rating || t.comment ? `<div class="sub">${starsText(t.rating)}${t.comment ? ` 💬 ${esc(t.comment.slice(0, 60))}${t.comment.length > 60 ? '…' : ''}` : ''}</div>` : ''}
+    </div>
+    <div class="side">
+      ${right}
+      <button class="home-toggle ${t.home ? 'on' : ''}" data-home="${esc(t.id)}" aria-label="Є вдома" aria-pressed="${t.home}">🏠</button>
+    </div>
+  </div>`;
 }
 
-$('#search').addEventListener('input', (e) => { ui.search = e.target.value; renderCollection(); });
-$('#stock-filter').addEventListener('click', (e) => {
-  const btn = e.target.closest('[data-stock]');
-  if (btn) { ui.stockFilter = btn.dataset.stock; renderCollection(); }
+function renderCatalog() {
+  $('#brand-filter').innerHTML = ['all', ...BRANDS].map((b) =>
+    `<button class="chip ${b === ui.brand ? 'active' : ''}" data-brand="${b}">${b === 'all' ? 'Усі бренди' : b}</button>`
+  ).join('');
+  $('#catalog-filter').innerHTML = CAT_FILTERS.map((f) =>
+    `<button class="chip ${f.id === ui.catFilter ? 'active' : ''}" data-cf="${f.id}">${f.label}</button>`
+  ).join('');
+
+  const el = $('#catalog-list');
+  if (ui.catalogError && !tobaccos.length) {
+    el.innerHTML = `<div class="empty">Не вдалося завантажити каталог (${esc(ui.catalogError)}).<br>Перевір інтернет і онови сторінку.</div>`;
+    return;
+  }
+
+  const q = ui.search.trim().toLowerCase();
+  const filter = CAT_FILTERS.find((f) => f.id === ui.catFilter).filter;
+  const list = tobaccos
+    .filter((t) => ui.brand === 'all' || t.brand === ui.brand)
+    .filter(filter)
+    .filter((t) => !q || `${t.brand} ${t.line} ${t.name} ${t.flavor} ${t.comment}`.toLowerCase().includes(q))
+    .sort((a, b) => (b.inStock - a.inStock) || a.brand.localeCompare(b.brand) || a.name.localeCompare(b.name, 'uk'));
+
+  el.innerHTML = `<p class="muted small">Знайдено: ${list.length}</p>` +
+    (list.length ? list.map(tobaccoRow).join('') : '<div class="empty">Нічого не знайдено</div>');
+
+  const info = catalogInfo();
+  $('#catalog-info').textContent = info.updatedAt
+    ? `Ціни та наявність: aladin-kyiv.com, оновлено ${new Date(info.updatedAt).toLocaleDateString('uk-UA', { day: 'numeric', month: 'long', year: 'numeric' })}.`
+    : '';
+}
+
+let searchTimer;
+$('#search').addEventListener('input', (e) => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => { ui.search = e.target.value; renderCatalog(); }, 150);
 });
-$('#collection-list').addEventListener('click', (e) => {
-  const tg = e.target.closest('[data-toggle]');
-  if (tg) { store.toggleStock(tg.dataset.toggle); return; }
-  const ed = e.target.closest('[data-edit]');
-  if (ed) openForm(ed.dataset.edit);
+$('#brand-filter').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-brand]');
+  if (btn) { ui.brand = btn.dataset.brand; renderCatalog(); }
+});
+$('#catalog-filter').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-cf]');
+  if (btn) { ui.catFilter = btn.dataset.cf; renderCatalog(); }
+});
+document.addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-home]');
+  if (!btn) return;
+  const t = byId.get(btn.dataset.home);
+  if (!t) return;
+  store.updateMy(t, { home: !t.home });
+  toast(t.home ? `Прибрав з дому: ${t.name}` : `🏠 Вдома: ${t.name}`);
 });
 
-// ---------- Форма табаку ----------
+// ---------- Картка табаку: оцінка, коментар, «вдома» ----------
 
 const dialog = $('#tobacco-dialog');
 const form = $('#tobacco-form');
-$('#strength-select').innerHTML = STRENGTHS.map((s) => `<option value="${s.id}">${s.label}</option>`).join('');
+const STAR_HINTS = ['Натисни на зірку, щоб оцінити', 'Не сподобався — не пропонуватиму', 'Так собі — не пропонуватиму', 'Нормально', 'Добрий — у топі', 'Улюблений — у топі'];
 
-function renderTagPicker() {
-  $('#tag-picker').innerHTML = CATEGORIES.map((c) =>
-    `<button type="button" class="chip ${ui.formTags.includes(c.id) ? 'active' : ''}" data-tag="${c.id}">${c.emoji} ${c.label}</button>`
+function renderDraftStars() {
+  $('#d-stars').innerHTML = [1, 2, 3, 4, 5].map((n) =>
+    `<button type="button" class="star ${n <= ui.draftRating ? 'on' : ''}" data-star="${n}" role="radio" aria-checked="${n === ui.draftRating}" aria-label="${n} з 5">★</button>`
   ).join('');
+  $('#d-stars-hint').textContent = STAR_HINTS[ui.draftRating];
 }
-$('#tag-picker').addEventListener('click', (e) => {
-  const btn = e.target.closest('[data-tag]');
+$('#d-stars').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-star]');
   if (!btn) return;
-  const id = btn.dataset.tag;
-  if (ui.formTags.includes(id)) ui.formTags = ui.formTags.filter((x) => x !== id);
-  else if (ui.formTags.length < 3) ui.formTags.push(id);
-  else toast('Максимум 3 категорії');
-  renderTagPicker();
+  const n = Number(btn.dataset.star);
+  ui.draftRating = ui.draftRating === n ? 0 : n;
+  renderDraftStars();
 });
 
-function openForm(id = null) {
-  const t = id && store.getState().tobaccos.find((x) => x.id === id);
-  ui.editingId = t ? t.id : null;
-  ui.formTags = t ? [...t.tags] : [];
-  form.reset();
-  form.name.value = t?.name || '';
-  form.brand.value = t?.brand || '';
-  form.strength.value = t?.strength || '';
-  form.inStock.checked = t ? t.inStock : true;
-  $('#dialog-title').textContent = t ? 'Редагувати табак' : 'Новий табак';
-  $('#form-error').hidden = true;
-
-  // Кнопка «Видалити» лише в режимі редагування.
-  form.querySelector('#btn-delete')?.remove();
-  if (t) {
-    const del = document.createElement('button');
-    del.type = 'button'; del.id = 'btn-delete'; del.className = 'btn btn-ghost';
-    del.textContent = '🗑 Видалити'; del.style.marginRight = 'auto';
-    del.onclick = () => {
-      if (!confirm(`Видалити «${t.name}»?`)) return;
-      store.deleteTobacco(t.id);
-      dialog.close();
-      toast('Видалено');
-    };
-    form.querySelector('.row-end').prepend(del);
-  }
-  renderTagPicker();
-  dialog.showModal();
+function statBar(label, v) {
+  if (v === null || v === undefined) return '';
+  return `<div class="stat"><span>${label}</span><span class="bar"><i style="width:${Math.min(v, 5) * 20}%"></i></span></div>`;
 }
 
-$('#btn-add').addEventListener('click', () => openForm());
-$('#btn-cancel').addEventListener('click', () => dialog.close());
+function openDetail(id) {
+  const t = byId.get(id);
+  if (!t) return;
+  ui.detailId = id;
+  ui.draftRating = t.rating;
+  const img = $('#d-img');
+  img.hidden = !t.img;
+  if (t.img) img.src = t.img;
+  $('#d-brand').textContent = brandLine(t) + (t.strength ? ` · ${strengthLabel(t.strength)}` : '');
+  $('#d-name').textContent = t.name;
+  $('#d-flavor').textContent = t.flavor || '';
+  $('#d-tags').textContent = tagsText(t.tags);
+  $('#d-stats').innerHTML = statBar('Солодкість', t.sweetness) + statBar('Кислинка', t.sourness) + statBar('Свіжість', t.freshness);
+  $('#d-shop').innerHTML = t.gone
+    ? '<span class="muted">Цього табаку вже немає в каталозі магазину</span>'
+    : `<span>${t.inStock ? `✅ Є в магазині · <b>${t.price} ₴</b>` : '❌ Немає в наявності'}</span>
+       ${t.url ? `<a class="btn btn-small" href="${esc(t.url)}" target="_blank" rel="noopener">У магазин ↗</a>` : ''}`;
+  form.comment.value = t.comment;
+  form.home.checked = t.home;
+  renderDraftStars();
+  dialog.showModal();
+  form.comment.blur();
+}
 
-form.addEventListener('submit', (e) => {
-  const name = form.name.value.trim();
-  const err = $('#form-error');
-  if (!name || !ui.formTags.length) {
-    e.preventDefault();
-    err.textContent = !name ? 'Вкажи смак' : 'Обери хоча б одну категорію смаку';
-    err.hidden = false;
-    return;
-  }
-  store.upsertTobacco({
-    ...(ui.editingId ? { id: ui.editingId } : {}),
-    name,
-    brand: form.brand.value.trim(),
-    tags: [...ui.formTags],
-    strength: form.strength.value,
-    inStock: form.inStock.checked,
-  });
-  toast(ui.editingId ? 'Збережено' : `Додано: ${name}`);
+$('#btn-cancel').addEventListener('click', () => dialog.close());
+dialog.addEventListener('click', (e) => { if (e.target === dialog) dialog.close(); }); // тап по фону
+
+form.addEventListener('submit', () => {
+  const t = byId.get(ui.detailId);
+  if (!t) return;
+  store.updateMy(t, { rating: ui.draftRating, comment: form.comment.value.trim(), home: form.home.checked });
+  toast('Збережено');
 });
+
+// ---------- Топ ----------
+
+function renderTop() {
+  const top = tobaccos.filter((t) => t.rating >= 4)
+    .sort((a, b) => b.rating - a.rating || a.name.localeCompare(b.name, 'uk'));
+  const bad = tobaccos.filter((t) => t.rating && t.rating <= 2)
+    .sort((a, b) => a.rating - b.rating || a.name.localeCompare(b.name, 'uk'));
+
+  // Улюблені мікси: пари з 👍 в історії.
+  const mixes = new Map();
+  for (const h of store.getState().history) {
+    if (h.rating !== 1) continue;
+    const k = pairKey(h.a, h.b);
+    const m = mixes.get(k) || { aName: h.aName, bName: h.bName, likes: 0, last: 0 };
+    m.likes++;
+    m.last = Math.max(m.last, h.date);
+    mixes.set(k, m);
+  }
+  const topMixes = [...mixes.values()].sort((a, b) => b.likes - a.likes || b.last - a.last);
+
+  const row = (t, i) => `<div class="list-item tob" data-open="${esc(t.id)}">
+    ${i !== undefined ? `<div class="rank">${i + 1}</div>` : ''}
+    <div class="main">
+      <div class="title">${esc(t.name)}</div>
+      <div class="sub">${esc(brandLine(t))} · ${starsText(t.rating)}</div>
+      ${t.comment ? `<div class="sub comment">💬 ${esc(t.comment)}</div>` : ''}
+    </div>
+  </div>`;
+
+  $('#top-content').innerHTML = `
+    <h2 class="section-title">🏆 Топ смаки (4–5★)</h2>
+    ${top.length ? top.map((t, i) => row(t, i)).join('') : '<div class="empty small">Поки порожньо. Відкрий табак у «Каталозі» й постав 4–5★.</div>'}
+
+    <h2 class="section-title">❤️ Улюблені мікси</h2>
+    ${topMixes.length ? topMixes.map((m) => `<div class="list-item"><div class="main">
+        <div class="title">${esc(m.aName)} + ${esc(m.bName)}</div>
+        <div class="sub">👍 × ${m.likes} · востаннє ${esc(formatDate(m.last))}</div></div></div>`).join('')
+      : '<div class="empty small">Тут з\'являться мікси, яким ти поставив 👍.</div>'}
+
+    <h2 class="section-title">👎 Не сподобались (1–2★)</h2>
+    <p class="muted small">Ці табаки не потрапляють у мікси.</p>
+    ${bad.length ? bad.map((t) => row(t)).join('') : '<div class="empty small">Таких поки немає 🙌</div>'}
+  `;
+}
 
 // ---------- Історія ----------
 
@@ -332,7 +448,7 @@ $('#file-import').addEventListener('change', async (e) => {
   const file = e.target.files[0];
   e.target.value = '';
   if (!file) return;
-  if (!confirm('Замінити поточну колекцію та історію даними з файлу?')) return;
+  if (!confirm('Замінити поточні оцінки, коментарі та історію даними з файлу?')) return;
   try {
     store.importJSON(await file.text());
     toast('Дані відновлено');
@@ -344,14 +460,27 @@ $('#file-import').addEventListener('change', async (e) => {
 // ---------- Старт ----------
 
 function renderAll() {
+  refreshTobaccos();
   renderRateLast();
-  renderCollection();
+  renderSources();
+  renderMix();
+  renderCatalog();
+  renderTop();
   renderHistory();
 }
 
 store.subscribe(renderAll);
 renderMoods();
 renderAll();
+
+loadCatalog()
+  .catch((err) => { ui.catalogError = err.message; })
+  .finally(() => {
+    // Перший запуск: поки вдома нічого немає — мікс з магазину.
+    const s = store.getState();
+    if (s.settings.source === 'home' && !Object.values(s.my).some((m) => m.home)) store.setSource('shop');
+    else renderAll();
+  });
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   navigator.serviceWorker.register('sw.js').catch(() => {});

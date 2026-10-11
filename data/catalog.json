@@ -1,0 +1,4665 @@
+{
+ "source": "https://aladin-kyiv.com",
+ "updatedAt": "2026-10-11T12:54:32+00:00",
+ "items": [
+  {
+   "id": "aladin:tyutyun-gedonist-01-double-currant-podviyna-smorodyna-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№01 Double Currant (Дабл Карент)",
+   "flavor": "Червона смородина, Чорна смородина",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-01-double-currant-podviyna-smorodyna-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-01-double-currant-podviyna-smorodyna-100-hr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-02-lemtea-cup-lemti-kap-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№02 Lemtea Cup (Лемті Кап)",
+   "flavor": "Лимон, Чай",
+   "strength": "medium",
+   "sweetness": 0,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-02-lemtea-cup-lemti-kap-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-02-lemtea-cup-lemti-kap-100-hr.webp",
+   "tags": [
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-04-cream-cookie-krem-pechyvo-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№04 Cream Cookie (Крем Печиво)",
+   "flavor": "Вершки, Лікер, Печиво",
+   "strength": "medium",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-04-cream-cookie-krem-pechyvo-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-04-cream-cookie-krem-pechyvo-100-hr.webp",
+   "tags": [
+    "creamy",
+    "drink",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-06-pineapple-twist-ananas-tvist-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№06 Pineapple Twist (Пайнепл Твіст)",
+   "flavor": "Ананас",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-06-pineapple-twist-ananas-tvist-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-06-pineapple-twist-ananas-tvist-100-hr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-07-grapefruit-mood-hreypfrut-mud-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№07 Grapefruit Mood (Грейпфрут Муд)",
+   "flavor": "Грейпфрут, Лічі",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-07-grapefruit-mood-hreypfrut-mud-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-07-grapefruit-mood-hreypfrut-mud-100-hr.webp",
+   "tags": [
+    "citrus",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-08-grape-dance-vynohrad-dens-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№08 Grape Dance (Грейп Денс)",
+   "flavor": "Виноград",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-08-grape-dance-vynohrad-dens-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-08-grape-dance-vynohrad-dens-100-hr.webp",
+   "tags": [
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-11-battle-orange-betl-apelsyn-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№11 Battle Orange (Бетл Оранж)",
+   "flavor": "Апельсин, Спеції",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-11-battle-orange-betl-apelsyn-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-11-battle-orange-betl-apelsyn-100-hr.webp",
+   "tags": [
+    "citrus",
+    "spice"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-13-nice-berrys-nays-berris-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№13 Nice Berry's (Найс Берріс)",
+   "flavor": "Ягоди",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-13-nice-berrys-nays-berris-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-13-nice-berrys-nays-berris-100-hr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-14-power-shock-pauer-shok-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№14 Power Shock (Пауер Шок)",
+   "flavor": "Енергетик, Ківі",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-14-power-shock-pauer-shok-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-14-power-shock-pauer-shok-100-hr.webp",
+   "tags": [
+    "drink",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-15-sexy-coco-seksi-koko-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№15 Sexy Coco (Сексі Коко)",
+   "flavor": "Кокос, Молоко, Полуниця",
+   "strength": "medium",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-15-sexy-coco-seksi-koko-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-15-sexy-coco-seksi-koko-100-hr.webp",
+   "tags": [
+    "tropical",
+    "creamy",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-19-tropic-food-tropik-fud-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№19 Tropic Food (Тропік Фуд)",
+   "flavor": "Ананас, Манго, Папая",
+   "strength": "medium",
+   "sweetness": 5,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-19-tropic-food-tropik-fud-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-19-tropic-food-tropik-fud-100-hr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-20-only-ice-tilky-lid-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№20 Only Ice (Онлі Айс)",
+   "flavor": "Лід",
+   "strength": "medium",
+   "sweetness": 0,
+   "sourness": 0,
+   "freshness": 5,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-20-only-ice-tilky-lid-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-20-only-ice-tilky-lid-100-hr.webp",
+   "tags": [
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-23-ginger-macaron-imbyr-makaron-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№23 Ginger Macaron (Імбир Макарон)",
+   "flavor": "Імбир, Крем, Печиво",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-23-ginger-macaron-imbyr-makaron-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-23-ginger-macaron-imbyr-makaron-100-hr.webp",
+   "tags": [
+    "spice",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-25-lemon-yougurt-lymonnyy-yohurt-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№25 Lemon Yougurt (Лимон Йогурт)",
+   "flavor": "Йогурт, Лимон",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-25-lemon-yougurt-lymonnyy-yohurt-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-25-lemon-yougurt-lymonnyy-yohurt-100-hr.webp",
+   "tags": [
+    "creamy",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-26-strawberries-cream-polunychnyy-krem-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№26 Strawberries Cream (Строуберріс Крем)",
+   "flavor": "Вершки, Полуниця",
+   "strength": "medium",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-26-strawberries-cream-polunychnyy-krem-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-26-strawberries-cream-polunychnyy-krem-100-hr.webp",
+   "tags": [
+    "creamy",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-27-papaya-lime-papaya-laym-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№27 Papaya Lime (Папая Лайм)",
+   "flavor": "Лайм, Папая",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-27-papaya-lime-papaya-laym-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-27-papaya-lime-papaya-laym-100-hr.webp",
+   "tags": [
+    "citrus",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-28-waterlemon-voterlemon-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№28 Waterlemon (Вотерлемон)",
+   "flavor": "Кавун, Лимон",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-28-waterlemon-voterlemon-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-28-waterlemon-voterlemon-100-hr.webp",
+   "tags": [
+    "fruit",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-30-mandarin-rush-mandaryn-rash-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№30 Mandarin Rush (Мандарин Раш)",
+   "flavor": "Мандарин",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-30-mandarin-rush-mandaryn-rash-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-30-mandarin-rush-mandaryn-rash-100-hr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-31-coconut-nuts-kokos-horikhy-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№31 Coconut Nuts (Кокос Горіхи)",
+   "flavor": "Горіх, Кокос",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-31-coconut-nuts-kokos-horikhy-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-31-coconut-nuts-kokos-horikhy-100-hr.webp",
+   "tags": [
+    "nut",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-32-sweet-mint-solodka-myata-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№32 Sweet Mint (Світ Мінт)",
+   "flavor": "М'ята, Цукор",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-32-sweet-mint-solodka-myata-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-32-sweet-mint-solodka-myata-100-hr.webp",
+   "tags": [
+    "fresh",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-33-blue-passion-blyu-peshn-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№33 Blue Passion (Блу Пешн)",
+   "flavor": "Маракуя, Чорниця",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-33-blue-passion-blyu-peshn-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-33-blue-passion-blyu-peshn-100-hr.webp",
+   "tags": [
+    "tropical",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-34-peach-fuzz-pich-faz-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№34 Peach Fuzz (Піч Фазз)",
+   "flavor": "Лід, Персик",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-34-peach-fuzz-pich-faz-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-34-peach-fuzz-pich-faz-100-hr.webp",
+   "tags": [
+    "fresh",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-35-mango-dragon-manho-drahon-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№35 Mango Dragon (Манго Драгон)",
+   "flavor": "Манго, Пітая",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-35-mango-dragon-manho-drahon-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-35-mango-dragon-manho-drahon-100-hr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-36-spiced-apple-pear-spaysed-epl-pir-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№36 Spiced Apple Pear (Спайсед Епл Пір)",
+   "flavor": "Груша, Зелене яблуко, Кориця",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-36-spiced-apple-pear-spaysed-epl-pir-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-36-spiced-apple-pear-spaysed-epl-pir-100-hr.webp",
+   "tags": [
+    "fruit",
+    "spice"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-37-bitter-zest-bitter-zest-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№37 Bitter Zest (Біттер Зест)",
+   "flavor": "Сицилійський апельсин, Трави, Цедра",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-37-bitter-zest-bitter-zest-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-37-bitter-zest-bitter-zest-100-hr.webp",
+   "tags": [
+    "citrus",
+    "spice"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-03-big-small-melon-bih-smoll-melon-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№03 Big & Small Melon (Біг & Смолл Мелон)",
+   "flavor": "Диня, Кавун, Лід",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-03-big-small-melon-bih-smoll-melon-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-03-big-small-melon-bih-smoll-melon-100-hr.webp",
+   "tags": [
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-05-cherry-queen-vyshnya-kvin-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№05 Cherry Queen (Черрі Квін)",
+   "flavor": "Мараскінова вишня",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-05-cherry-queen-vyshnya-kvin-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-05-cherry-queen-vyshnya-kvin-100-hr.webp",
+   "tags": [
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-09-bubble-boom-babl-bum-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№09 Bubble Boom (Бабл Бум)",
+   "flavor": "Солодка жуйка",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-09-bubble-boom-babl-bum-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-09-bubble-boom-babl-bum-100-hr.webp",
+   "tags": [
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-10-cola-sour-kola-sauer-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№10 Cola Sour (Кола Сауер)",
+   "flavor": "Кола, Лимон",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-10-cola-sour-kola-sauer-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-10-cola-sour-kola-sauer-100-hr.webp",
+   "tags": [
+    "drink",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-12-apple-granny-yabluko-hrenni-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№12 Apple Granny (Епл Гренні)",
+   "flavor": "Жуйка, Зелене яблуко, М'ята",
+   "strength": "medium",
+   "sweetness": 2,
+   "sourness": 1,
+   "freshness": 4,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-12-apple-granny-yabluko-hrenni-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-12-apple-granny-yabluko-hrenni-100-hr.webp",
+   "tags": [
+    "dessert",
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-16-barberry-shot-barbarys-shot-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№16 Barberry Shot (Барберрі Шот)",
+   "flavor": "Барбарис, Льодяник",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-16-barberry-shot-barbarys-shot-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-16-barberry-shot-barbarys-shot-100-hr.webp",
+   "tags": [
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-17-lemonardo-lemonardo-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№17 Lemonardo (Лемонардо)",
+   "flavor": "Лайм, Лимонад",
+   "strength": "medium",
+   "sweetness": 2,
+   "sourness": 3,
+   "freshness": 1,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-17-lemonardo-lemonardo-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-17-lemonardo-lemonardo-100-hr.webp",
+   "tags": [
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-18-raspberry-sorbet-malyna-sorbet-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№18 Raspberry Sorbet (Малина Сорбет)",
+   "flavor": "Малина, Морозиво",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 1,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-18-raspberry-sorbet-malyna-sorbet-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-18-raspberry-sorbet-malyna-sorbet-100-hr.webp",
+   "tags": [
+    "berry",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-21-barby-gum-barbi-zhuyka-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№21 Barby Gum (Барбі Гам)",
+   "flavor": "Малина, Полуниця, Солодка жуйка",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-21-barby-gum-barbi-zhuyka-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-21-barby-gum-barbi-zhuyka-100-hr.webp",
+   "tags": [
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-22-blumist-gum-blumist-zhuyka-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№22 Blumist Gum (Блуміст Гам)",
+   "flavor": "Жуйка, Лохина",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 3,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-22-blumist-gum-blumist-zhuyka-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-22-blumist-gum-blumist-zhuyka-100-hr.webp",
+   "tags": [
+    "dessert",
+    "berry",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-24-needles-in-the-tropics-khvoya-u-tropikakh-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№24 Needles In The Tropics (Нідлс Ін Зе Тропікс)",
+   "flavor": "Лід, Манго, Мандарин, Хвоя",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-24-needles-in-the-tropics-khvoya-u-tropikakh-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-24-needles-in-the-tropics-khvoya-u-tropikakh-100-hr.webp",
+   "tags": [
+    "fresh",
+    "tropical",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-gedonist-29-purple-tonic-fioletovyy-tonik-100-hr",
+   "brand": "Gedonist",
+   "line": "",
+   "name": "№29 Purple Tonic (Пьорпл Тонік)",
+   "flavor": "Лаванда, Тонік",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 2,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-gedonist/tyutyun-gedonist-100-hr/tyutyun-gedonist-29-purple-tonic-fioletovyy-tonik-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-gedonist-29-purple-tonic-fioletovyy-tonik-100-hr.webp",
+   "tags": [
+    "floral",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-banana-strawberry-banan-polunicya-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Banana Strawberry (Банан Полуниця)",
+   "flavor": "Банан, Лід, Полуниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-banana-strawberry-banan-polunicya-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Dark-Frost-Line-Banana-Strawberry-banan-polunicya-100-gr.webp",
+   "tags": [
+    "tropical",
+    "fresh",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-berry-citrus-yagoda-citrus-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Berry Citrus (Ягода Цитрус)",
+   "flavor": "Апельсин, Лід, Лайм, Малина",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-berry-citrus-yagoda-citrus-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Dark-Frost-Line-Berry-Citrus-yagoda-citrus-100-gr.webp",
+   "tags": [
+    "citrus",
+    "fresh",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-frost-line-berry-zen-berri-zen-100-hr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Berry Zen (Беррі Зен)",
+   "flavor": "Лід, Лемонграс, Лохина, Малина",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-frost-line-berry-zen-berri-zen-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-frost-line-berry-zen-berri-zen-100-hr.webp",
+   "tags": [
+    "berry",
+    "fresh",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-cherry-lemonade-vishnya-limonad-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Cherry Lemonade (Вишня Лимонад)",
+   "flavor": "Вишня, Грейпфрут, Кола, Лід",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-cherry-lemonade-vishnya-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Dark-Frost-Line-Cherry-Lemonade-vishnya-limonad-100-gr.webp",
+   "tags": [
+    "fruit",
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-double-melon-dabl-dinya-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Double Melon (Дабл Мелон)",
+   "flavor": "Диня, Кавун, Лід, М'ята",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 4,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-double-melon-dabl-dinya-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Dark-Frost-Line-Double-Melon-dabl-dinya-100-gr.webp",
+   "tags": [
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-frost-line-freeze-pop-friz-pop-100-hr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Freeze Pop (Фріз Поп)",
+   "flavor": "Жуйка, Лід, Чорниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 5,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-frost-line-freeze-pop-friz-pop-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-frost-line-freeze-pop-friz-pop-100-hr.webp",
+   "tags": [
+    "dessert",
+    "fresh",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-frost-line-grape-beat-hreyp-bit-100-hr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Grape Beat (Грейп Біт)",
+   "flavor": "Виноград, Енергетик, Лід, Лайм",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 3,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-frost-line-grape-beat-hreyp-bit-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-frost-line-grape-beat-hreyp-bit-100-hr.webp",
+   "tags": [
+    "fruit",
+    "drink",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-grapefruit-melons-greypfrut-melons-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Grapefruit Melons (Грейпфрут Мелонс)",
+   "flavor": "Грейпфрут, Диня, Кавун, Лід",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-grapefruit-melons-greypfrut-melons-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-dark-frost-line-grapefruit-melons-greypfrut-melons-100-gr.webp",
+   "tags": [
+    "fruit",
+    "citrus",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-frost-line-love-is-lav-iz-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Love Is (Лав Із)",
+   "flavor": "Диня, Кавун, Лід, Солодка жуйка",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-frost-line-love-is-lav-iz-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-frost-line-love-is-lav-iz-100-gr.webp",
+   "tags": [
+    "fruit",
+    "fresh",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-frost-line-malibu-vibe-malibu-vayb-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Malibu Vibe (Малібу Вайб)",
+   "flavor": "Ананас, Диня, Лід, Манго",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-frost-line-malibu-vibe-malibu-vayb-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-frost-line-malibu-vibe-malibu-vayb-100-gr.webp",
+   "tags": [
+    "tropical",
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-peach-ice-pear-persik-lid-grusha-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Peach Ice Pear (Персик Лід Груша)",
+   "flavor": "Груша, Лід, Персик",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-peach-ice-pear-persik-lid-grusha-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-dark-frost-line-peach-ice-pear-persik-lid-grusha-100-gr.webp",
+   "tags": [
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-pear-soda-grusha-soda-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Pear Soda (Груша Сода)",
+   "flavor": "Груша, Лід, М'ята, Полуниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 4,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-pear-soda-grusha-soda-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Dark-Frost-Line-Pear-Soda-grusha-soda-100-gr.webp",
+   "tags": [
+    "fresh",
+    "fruit",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-frost-line-pink-berries-pink-berris-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Pink Berries (Пінк Берріс)",
+   "flavor": "Кавун, Лід, Малина, Суниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-frost-line-pink-berries-pink-berris-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-frost-line-pink-berries-pink-berris-100-gr.webp",
+   "tags": [
+    "berry",
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-red-kiwi-red-kivi-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Red Kiwi (Ред Ківі)",
+   "flavor": "Ківі, Кавун, Лід, Полуниця",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-red-kiwi-red-kivi-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-dark-frost-line-red-kiwi-red-kivi-100-gr.webp",
+   "tags": [
+    "tropical",
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-space-jam-speys-dghem-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Space Jam (Спейс Джем)",
+   "flavor": "Грейпфрут, Ківі, Лід, Полуниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-space-jam-speys-dghem-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Dark-Frost-Line-Space-Jam-speys-dghem-100-gr.webp",
+   "tags": [
+    "citrus",
+    "tropical",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-frost-line-thailand-shot-tailand-shot-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Thailand Shot (Таїланд Шот)",
+   "flavor": "Лід, Манго, Папая, Помело",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-frost-line-thailand-shot-tailand-shot-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-dark-frost-line-thailand-shot-tailand-shot-100-gr.webp",
+   "tags": [
+    "tropical",
+    "fresh",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-frost-line-waterberry-shot-voterberri-shot-100-hr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Waterberry Shot (Вотерберрі Шот)",
+   "flavor": "Кавун, Лід, Малина, Чорна смородина",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-frost-line-waterberry-shot-voterberri-shot-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-frost-line-waterberry-shot-voterberri-shot-100-hr.webp",
+   "tags": [
+    "berry",
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-bananaway-banan-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Bananaway (Бананавей)",
+   "flavor": "Банан",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-bananaway-banan-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Bananaway-Banan-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-berry-blast-yagoda-blast-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Berry Blast (Беррі Бласт)",
+   "flavor": "Малина, Ожина, Чорниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-berry-blast-yagoda-blast-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Berry-Blast-Yagoda-Blast-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-black-currant-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Black Currant (Чорна Смородина)",
+   "flavor": "Чорна смородина",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-black-currant-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Black-Currant-Chernaya-Smorodina-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-blueberry-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Blueberry (Чорниця)",
+   "flavor": "Чорниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-blueberry-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Blueberry-Chernika-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-blueberry-melon-chernika-dynya-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Blueberry Melon (Чорниця Диня)",
+   "flavor": "Диня, Чорниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-blueberry-melon-chernika-dynya-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Blueberry-Melon-Chernika-Dynya-100-gr.webp",
+   "tags": [
+    "fruit",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-candy-mint-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Candy Mint (Льодяник М'ята)",
+   "flavor": "Льодяник, М'ята",
+   "strength": "strong",
+   "sweetness": 2,
+   "sourness": 0,
+   "freshness": 4,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-candy-mint-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Candy-Mint-Ledenec-Myata-100-gr.webp",
+   "tags": [
+    "dessert",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-citrus-mint-citrus-myata-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Citrus Mint (Цитрус М'ята)",
+   "flavor": "Апельсин, Грейпфрут, Лайм, Лимон, М'ята",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 4,
+   "freshness": 2,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-citrus-mint-citrus-myata-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Citrus-Mint-Citrus-Myata-100-gr.webp",
+   "tags": [
+    "citrus",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-citrus-tea-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Citrus Tea (Цитрус Чай)",
+   "flavor": "Апельсин, Грейпфрут, Лимон, Чай",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 4,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-citrus-tea-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Citrus-Tea-Citrus-Chay-100-gr.webp",
+   "tags": [
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-coconut-cookies-kokos-pechenye-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Coconut Cookies (Кокос Печиво)",
+   "flavor": "Кокос, Печиво",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-coconut-cookies-kokos-pechenye-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Coconut-Cookies-Kokos-Pechenye-100-gr.webp",
+   "tags": [
+    "tropical",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-dragonfruit-dregonfrut-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Dragonfruit (Пітая)",
+   "flavor": "Пітая",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-dragonfruit-dregonfrut-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Dragonfruit-Dregonfrut-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-frostbite-frostibayt-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Frostbite (Фростбайт)",
+   "flavor": "Лід",
+   "strength": "strong",
+   "sweetness": 0,
+   "sourness": 0,
+   "freshness": 5,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-frostbite-frostibayt-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Frostbite-Frostibayt-100-gr.webp",
+   "tags": [
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-grape-soda-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Grape Soda (Виноград Сода)",
+   "flavor": "Фанта, Чорний виноград",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-grape-soda-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Grape-Soda-Vinograd-Soda-100-gr.webp",
+   "tags": [
+    "drink",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-grapefruit-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Grapefruit (Грейпфрут)",
+   "flavor": "Грейпфрут",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-grapefruit-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Grapefruit-Greypfrut-100-gr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-ice-grape-berry-vinograd-yagody-led-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Ice Grape Berry (Лід Виноград Ягода)",
+   "flavor": "Виноград, Лід, Малина, Ожина",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-ice-grape-berry-vinograd-yagody-led-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Ice-Grape-Berry-Vinograd-Yagody-Led-100-gr.webp",
+   "tags": [
+    "berry",
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-jungle-fruit-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Jungle Fruit (Джангл Фрут)",
+   "flavor": "Ананас, Манго, Маракуя, Персик",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-jungle-fruit-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Jungle-Fruit-Dghangl-Frut-100-gr.webp",
+   "tags": [
+    "tropical",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-kiwi-smoothie-kivi-smuzi-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Kiwi Smoothie (Ківі Смузі)",
+   "flavor": "Ківі, Смузі",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-kiwi-smoothie-kivi-smuzi-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Kiwi-Smoothie-Kivi-Smuzi-100-gr.webp",
+   "tags": [
+    "tropical",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-lemon-chess-limonnyy-chizkeyk-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Lemon Cake (Лимон Пиріг)",
+   "flavor": "Лимон, Пиріг",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-lemon-chess-limonnyy-chizkeyk-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Lemon-Cake-Limon-Pirog-100-gr.webp",
+   "tags": [
+    "citrus",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-lemon-squirt-limon-skvirt-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Lemon Squirt (Лемон Сквьорт)",
+   "flavor": "Лимон",
+   "strength": "strong",
+   "sweetness": 0,
+   "sourness": 4,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-lemon-squirt-limon-skvirt-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Lemon-Squirt-Limon-Skvirt-100-gr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-lime-laym-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Lime (Лайм)",
+   "flavor": "Лайм",
+   "strength": "strong",
+   "sweetness": 0,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-lime-laym-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Lime-Laym-100-gr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-malvina-malina-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Malvina (Малина)",
+   "flavor": "Малина",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-malvina-malina-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Malvina-Malina-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-mandarin-lemonade-mandarin-limonad-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Mandarin Lemonade (Мандарин Лимонад)",
+   "flavor": "Лимонад, Мандарин",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-mandarin-lemonade-mandarin-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Mandarin-Lemonade-Mandarin-Limonad-100-gr.webp",
+   "tags": [
+    "drink",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-mango-bloom-mango-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Mango Bloom (Манго Блум)",
+   "flavor": "Манго",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-mango-bloom-mango-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Mango-Bloom-Mango-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-melon-sorbet-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Melon Sorbet (Диня Сорбет)",
+   "flavor": "Диня, Морозиво",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-melon-sorbet-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Melon-Sorbet-Dynya-Sorbet-100-gr.webp",
+   "tags": [
+    "fruit",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-neasty-peach-persik-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Neas Peach (Персик)",
+   "flavor": "Персик",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-neasty-peach-persik-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Neasty-Peach-Persik-100-gr.webp",
+   "tags": [
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-northern-berries-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Northern Berries (Норзерн Берріс)",
+   "flavor": "Лід, Малина, Ожина, Чорниця",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-northern-berries-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Northern-Berries-Nozern-Yagody-100-gr.webp",
+   "tags": [
+    "berry",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-orange-zest-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Orange Zest (Апельсин Цедра)",
+   "flavor": "Апельсин, Цедра",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-orange-zest-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Orange-Zest-Apelysin-Cedra-100-gr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-pinetears-ananas-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Pineapple (Ананас)",
+   "flavor": "Ананас",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-pinetears-ananas-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Pineapple-Ananas-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-pomegranate-mors-granat-mors-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Pomegranate Mors (Гранат Морс)",
+   "flavor": "Гранат, Морс",
+   "strength": "strong",
+   "sweetness": 2,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-pomegranate-mors-granat-mors-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Pomegranate-Mors-Granat-Mors-100-gr.webp",
+   "tags": [
+    "fruit",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-pomelo-pomelo-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Pomelo (Помело)",
+   "flavor": "Помело",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-pomelo-pomelo-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Pomelo-Pomelo-100-gr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-punk-cherry-vishnya-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Punk Cherry (Панк Черрі)",
+   "flavor": "Вишня",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-punk-cherry-vishnya-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Punk-Cherry-Vishnya-100-gr.webp",
+   "tags": [
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-red-currant-krasnaya-smorodina-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Red Currant (Червона Смородина)",
+   "flavor": "Червона смородина",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-red-currant-krasnaya-smorodina-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Red-Currant-Krasnaya-Smorodina-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-strawberry-jam-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Strawberry Jam (Полуниця Джем)",
+   "flavor": "Джем, Полуниця",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-strawberry-jam-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Strawberry-Jam-Klubnika-Dghem-100-gr.webp",
+   "tags": [
+    "dessert",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-tropical-splash-tropikal-splesh-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Tropical Splash (Тропікал Сплеш)",
+   "flavor": "Ананас, Манго, Маракуя",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-tropical-splash-tropikal-splesh-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Tropical-Splash-Tropikal-Splesh-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-watermelon-juice-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Watermelon Juice (Кавун Сік)",
+   "flavor": "Кавун, Лимонад",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-watermelon-juice-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Watermelon-Juice-Arbuz-Dghus-100-gr.webp",
+   "tags": [
+    "fruit",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-wildberry-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Wildberry (Вайлдберрі)",
+   "flavor": "Суниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-wildberry-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Wildberry-Zemlyanika-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-line-x-fedyapro-peach-gelatto-persikoviy-dghem-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "x Fedyapro Peach Gelatto (Піч Джелатто)",
+   "flavor": "Морозиво, Персик",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 1,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-line-x-fedyapro-peach-gelatto-persikoviy-dghem-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-line-x-fedyapro-peach-gelatto-persik-dghelatto-100-gr.webp",
+   "tags": [
+    "creamy",
+    "dessert",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-line-x-hookah-overlord-watermelon-margarita-kavun-marharyta-100-hr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "x Hookah Overlord Watermelon Margarita (Кавун Маргарита)",
+   "flavor": "Кавун, Лайм, Текіла",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 1,
+   "price": 335,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-line-x-hookah-overlord-watermelon-margarita-kavun-marharyta-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-line-x-hookah-overlord-watermelon-margarita-kavun-marharyta-100-hr.webp",
+   "tags": [
+    "fruit",
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-frost-line-toxic-cactus-toksik-kaktus-100-gr",
+   "brand": "420",
+   "line": "Classic Frost Line",
+   "name": "Toxic Cactus (Токсік Кактус)",
+   "flavor": "Ківі, Кактус, Лід, Лайм, Лимон",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 4,
+   "freshness": 3,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-frost-line-toxic-cactus-toksik-kaktus-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-frost-line-toxic-cactus-toksik-kaktus-100-gr.webp",
+   "tags": [
+    "fresh",
+    "citrus",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-apple-squirt-yablochnyy-skvirt-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Apple Squirt (Епл Сквьорт)",
+   "flavor": "Зелене яблуко, Цукерки",
+   "strength": "strong",
+   "sweetness": 2,
+   "sourness": 2,
+   "freshness": 1,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-apple-squirt-yablochnyy-skvirt-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-line-apple-squirt-yabluchna-tsukerka-100-hr.webp",
+   "tags": [
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-barberry-candy-barbaris-konfeta-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Barberry Candy (Барбарис Цукерка)",
+   "flavor": "Барбарис, Льодяник",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-barberry-candy-barbaris-konfeta-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Barberry-Candy-Barbaris-Konfeta-100-gr.webp",
+   "tags": [
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-blackberry-eghevika-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Blackberry (Ожина)",
+   "flavor": "Ожина",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-blackberry-eghevika-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Blackberry-Eghevika-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-captain-baldezh-kapitan-baldegh-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Captain Baldezh (Капітан Балдьож)",
+   "flavor": "Груша, Лимонад",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 2,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-captain-baldezh-kapitan-baldegh-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Captain-Baldezh-Kapitan-Baldegh-100-gr.webp",
+   "tags": [
+    "fruit",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-christmas-kristmas-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Christmas (Крістмас)",
+   "flavor": "Малина, Ожина, Хвоя, Чорниця",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 2,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-christmas-kristmas-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Christmas-Kristmas-100-gr.webp",
+   "tags": [
+    "berry",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-californication-kaliforniya-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Colafornication (Колафорнікейшн)",
+   "flavor": "Ваніль, Кола",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-californication-kaliforniya-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Colafornication-Kolafornikeyshn-100-gr.webp",
+   "tags": [
+    "dessert",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-cranberry-juice-klyukva-dghus-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Cranberry Juice (Журавлина Сік)",
+   "flavor": "Журавлина, Сік",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-cranberry-juice-klyukva-dghus-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Cranberry-Juice-Klyukva-Dghus-100-gr.webp",
+   "tags": [
+    "berry",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-cream-liquor-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Cream Liquor (Крем Лікер)",
+   "flavor": "Вершки, Лікер",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-cream-liquor-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Cream-Liquor-Krem-Liker-100-gr.webp",
+   "tags": [
+    "creamy",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-feijoa-feyhoa-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Feijoa (Фейхоа)",
+   "flavor": "Фейхоа",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-feijoa-feyhoa-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Feijoa-Feyhoa-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-fruit-cereal-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Fruit Cereal (Фрукти Пластівці)",
+   "flavor": "Банан, Диня, Персик, Пластівці",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-fruit-cereal-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Fruit-Cereal-Frukty-Hlopyya-100-gr.webp",
+   "tags": [
+    "fruit",
+    "tropical",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-oblepiha-oblepiha-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Oblepiha (Обліпиха)",
+   "flavor": "Обліпиха",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-oblepiha-oblepiha-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Oblepiha-Oblepiha-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-pistacchio-cream-fistashkovoe-moroghenoe-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Pistacchio Cream (Пісташіо Крем)",
+   "flavor": "Морозиво, Фісташки",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-pistacchio-cream-fistashkovoe-moroghenoe-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Pistacchio-Cream-Fistashkovoe-Moroghenoe-100-gr.webp",
+   "tags": [
+    "creamy",
+    "dessert",
+    "nut"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-scotch-whisky-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Scotch Whisky (Скотч Віскі)",
+   "flavor": "Віскі",
+   "strength": "strong",
+   "sweetness": 0,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-scotch-whisky-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Scotch-Whisky-Viski-100-gr.webp",
+   "tags": [
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-dark-line-toxic-candy-toksik-cukerka-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Toxic Candy (Токсік Кенді)",
+   "flavor": "Зелене яблуко, Лимон, Льодяник",
+   "strength": "strong",
+   "sweetness": 2,
+   "sourness": 3,
+   "freshness": 1,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-dark-line-toxic-candy-toksik-cukerka-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Dark-Line-Toxic-Candy-toksik-cukerka-100-gr.webp",
+   "tags": [
+    "fruit",
+    "citrus",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-tropic-maracuja-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Tropic Maracuja (Тропік Маракуя)",
+   "flavor": "Маракуя",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-tropic-maracuja-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Tropic-Maracuja-Tropik-Marakuyya-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-turbo-turbo-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Turbo (Турбо)",
+   "flavor": "Диня, Жуйка, Кавун",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-turbo-turbo-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Turbo-Turbo-100-gr.webp",
+   "tags": [
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-tutti-frutti-tutti-frutti-100-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Tutti Frutti (Тутті Фрутті)",
+   "flavor": "Малина, Манго, Ожина, Персик, Солодка жуйка",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-tutti-frutti-tutti-frutti-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Tutti-Frutti-Tutti-Frutti-100-gr.webp",
+   "tags": [
+    "berry",
+    "tropical",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-dark-line-waffle-125-gr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "Waffle (Вафлі)",
+   "flavor": "Вафлі, Вершки",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tabak-420-dark-line-waffle-125-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Dark-Line-Waffle-Vafli-100-gr.webp",
+   "tags": [
+    "dessert",
+    "creamy"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-classic-line-x-hookah-overlord-porn-star-martini-porn-star-martini-100-hr",
+   "brand": "420",
+   "line": "Classic Line",
+   "name": "x Hookah Overlord Porn Star Martini (Порн Стар Мартіні)",
+   "flavor": "Лимон, Маракуя, Шампанське",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 335,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-classic-line/tyutyun-420-classic-line-100-gr/tyutyun-420-classic-line-x-hookah-overlord-porn-star-martini-porn-star-martini-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-classic-line-x-hookah-overlord-porn-star-martini-porn-star-martini-100-hr.webp",
+   "tags": [
+    "citrus",
+    "tropical",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-ays-grusha-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Айс Груша",
+   "flavor": "Груша, Лід",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-ays-grusha-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-ays-grusha-100-gr.webp",
+   "tags": [
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-ays-limon-myata-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Айс Лимон М'ята",
+   "flavor": "Лід, Лимон, М'ята",
+   "strength": "light",
+   "sweetness": 0,
+   "sourness": 4,
+   "freshness": 4,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-ays-limon-myata-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-ays-limon-myata-100-gr.webp",
+   "tags": [
+    "fresh",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-ays-limon-malina-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Айс Лимон Малина",
+   "flavor": "Лід, Лимон, Малина",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-ays-limon-malina-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-ays-limon-malina-100-gr.webp",
+   "tags": [
+    "fresh",
+    "citrus",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-ays-yabloko-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Айс Яблуко",
+   "flavor": "Зелене яблуко, Лід",
+   "strength": "light",
+   "sweetness": 1,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-ays-yabloko-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-ays-yabluko-100-gr.webp",
+   "tags": [
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-ananasovyy-smuzi-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Ананасовий Смузі",
+   "flavor": "Ананас, Коктейль",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-ananasovyy-smuzi-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-ananasoviy-smuzi-100-gr.webp",
+   "tags": [
+    "tropical",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-apelysin-mango-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Апельсин Манго",
+   "flavor": "Апельсин, Манго",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-apelysin-mango-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-apelsyn-manho-100-hr.webp",
+   "tags": [
+    "citrus",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-apelysin-polunicya-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Апельсин Полуниця",
+   "flavor": "Апельсин, Вершки, Полуниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-apelysin-polunicya-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-apelysin-polunicya-100-gr.webp",
+   "tags": [
+    "citrus",
+    "creamy",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-vinograd-myata-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Виноград М'ята",
+   "flavor": "М'ята, Чорний виноград",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-vinograd-myata-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-vinograd-myata-100-gr.webp",
+   "tags": [
+    "fresh",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-vishnya-barbaris-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Вишня Барбарис",
+   "flavor": "Барбарис, Вишня, Лимонад, Льодяник",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-vishnya-barbaris-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-vishnya-barbaris-100-gr.webp",
+   "tags": [
+    "berry",
+    "fruit",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-greypfrut-malina-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Грейпфрут Малина",
+   "flavor": "Грейпфрут, Малина",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-greypfrut-malina-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-hreypfrut-malyna-100-hr.webp",
+   "tags": [
+    "citrus",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-grin-miks-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Грін Мікс",
+   "flavor": "Зелене яблуко, Ківі, Лайм, М'ята",
+   "strength": "light",
+   "sweetness": 2,
+   "sourness": 3,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-grin-miks-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-grin-miks-100-gr.webp",
+   "tags": [
+    "fruit",
+    "tropical",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-hrushevyy-lymonad-100-hr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Грушевий Лимонад",
+   "flavor": "Груша, Лід, Лимон, Лимонад, М'ята",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-hrushevyy-lymonad-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-hrushevyy-lymonad-100-hr.webp",
+   "tags": [
+    "fresh",
+    "fruit",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-energeticheskiy-napitok-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Енергетичний Напій",
+   "flavor": "Гуарана, Енергетик",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-energeticheskiy-napitok-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-energetichniy-napiy-100-gr.webp",
+   "tags": [
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-arbuz-limon-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Кавун Лимон",
+   "flavor": "Кавун, Лимон",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-arbuz-limon-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-kavun-lymon-100-hr.webp",
+   "tags": [
+    "fruit",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-arbuzno-dynnyy-sorbet-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Кавуново-Динний Сорбет",
+   "flavor": "Диня, Кавун, Морозиво",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-arbuzno-dynnyy-sorbet-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-kavunovo-dinniy-sorbet-100-gr.webp",
+   "tags": [
+    "fruit",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-kalamansi-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Каламансі",
+   "flavor": "Коктейль, Кумкват, Лайм, Лимон",
+   "strength": "light",
+   "sweetness": 2,
+   "sourness": 4,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-kalamansi-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-kalamansi-100-gr.webp",
+   "tags": [
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-lav-66-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Лав 66",
+   "flavor": "Диня, Кавун, М'ята, Маракуя",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-lav-66-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-lav-66-100-gr.webp",
+   "tags": [
+    "fruit",
+    "fresh",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-laym-persik-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Лайм Персик",
+   "flavor": "Лайм, Персик",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-laym-persik-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-laym-persik-100-gr.webp",
+   "tags": [
+    "citrus",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-ledi-killer-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Леді Кіллер",
+   "flavor": "Диня, М'ята, Манго, Ягоди",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-ledi-killer-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-ledi-killer-100-gr.webp",
+   "tags": [
+    "fruit",
+    "fresh",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-limonchello-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Лімончелло",
+   "flavor": "Лімончелло",
+   "strength": "light",
+   "sweetness": 2,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-limonchello-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-limonchello-100-gr.webp",
+   "tags": [
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-letniy-vayb-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Літній Вайб",
+   "flavor": "Апельсин, Кавун, Солодка жуйка",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 1,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-letniy-vayb-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-litniy-vayb-100-gr.webp",
+   "tags": [
+    "citrus",
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-mango-persik-dinya-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Манго Персик Диня",
+   "flavor": "Диня, Манго, Персик",
+   "strength": "light",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-mango-persik-dinya-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-mango-persik-dinya-100-gr.webp",
+   "tags": [
+    "fruit",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-molochnoe-pechenye-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Молочне Печиво",
+   "flavor": "Молоко, Печиво",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-molochnoe-pechenye-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-molochne-pechivo-100-gr.webp",
+   "tags": [
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-moroghenoe-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Морозиво",
+   "flavor": "Банан, Морозиво, Полуниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-moroghenoe-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-morozivo-100-gr.webp",
+   "tags": [
+    "tropical",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-ogurechnyy-limonad-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Огірковий Лимонад",
+   "flavor": "Лід, Лайм, Лимон, Лимонад, М'ята, Огірок",
+   "strength": "light",
+   "sweetness": 1,
+   "sourness": 3,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-ogurechnyy-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-ohirkovyy-lymonad-100-hr.webp",
+   "tags": [
+    "fresh",
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-polunicya-bazilik-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Полуниця Базилік",
+   "flavor": "Базилік, Полуниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-polunicya-bazilik-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Light-Line-polunicya-bazilik-100-gr.webp",
+   "tags": [
+    "spice",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-klubnichnyy-milyfey-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Полуничний Мільфей",
+   "flavor": "Вершки, Пиріг, Полуниця",
+   "strength": "light",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-klubnichnyy-milyfey-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-polunichniy-milyfey-100-gr.webp",
+   "tags": [
+    "creamy",
+    "dessert",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-rafaello-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Рафаелло",
+   "flavor": "Рафаелло",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-rafaello-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-rafaello-100-gr.webp",
+   "tags": [
+    "dessert",
+    "creamy"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-red-miks-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Ред Мікс",
+   "flavor": "Вишня, Малина, Полуниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-red-miks-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Light-Line-red-miks-100-gr.webp",
+   "tags": [
+    "berry",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-rozovyy-limonad-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Рожевий Лимонад",
+   "flavor": "Грейпфрут, Лимонад, Малина, Полуниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 2,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-rozovyy-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-rogheviy-limonad-100-gr.webp",
+   "tags": [
+    "berry",
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-sammer-taym-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Саммер Тайм",
+   "flavor": "Грейпфрут, Лимон, Полуниця, Солодка жуйка",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-sammer-taym-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-sammer-taym-100-hr.webp",
+   "tags": [
+    "citrus",
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-svighi-yagodi-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Свіжі Ягоди",
+   "flavor": "Лід, Малина, Чорна смородина, Чорниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-svighi-yagodi-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-svizhi-yahody-100-hr.webp",
+   "tags": [
+    "berry",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-siniy-limonad-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Синій Лимонад",
+   "flavor": "Лимонад, Малина, Чорниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 2,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-siniy-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-siniy-limonad-100-gr.webp",
+   "tags": [
+    "berry",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-skittls-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Скіттлс",
+   "flavor": "Скіттлс",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-skittls-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-skittls-100-gr.webp",
+   "tags": [
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-tropicheskiy-sok-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Тропічний Сік",
+   "flavor": "Ананас, Апельсин, Банан",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-tropicheskiy-sok-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-tropichniy-sik-100-gr.webp",
+   "tags": [
+    "tropical",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-fruktovaya-ghvachka-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Фруктова Жуйка",
+   "flavor": "Груша, Лід, Полуниця, Чорниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 3,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-fruktovaya-ghvachka-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-fruktova-ghuyka-100-gr.webp",
+   "tags": [
+    "berry",
+    "fruit",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-citrusovyy-limonad-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Цитрусовий Лимонад",
+   "flavor": "Апельсин, Грейпфрут, Лайм, Лимон, Лимонад",
+   "strength": "light",
+   "sweetness": 1,
+   "sourness": 4,
+   "freshness": 2,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-citrusovyy-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-citrusoviy-limonad-100-gr.webp",
+   "tags": [
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-chernika-myata-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Чорниця М'ята",
+   "flavor": "М'ята, Чорниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-chernika-myata-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-chornicya-myata-100-gr.webp",
+   "tags": [
+    "fresh",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-chernichnyy-maffin-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Чорничний Мафін",
+   "flavor": "Пиріг, Чорниця",
+   "strength": "light",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-chernichnyy-maffin-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-chornichniy-mafin-100-gr.webp",
+   "tags": [
+    "dessert",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-yabluchni-vedmediki-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Яблучні Ведмедики",
+   "flavor": "Зелене яблуко, Мармелад",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-yabluchni-vedmediki-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-yabluchni-vedmediki-100-gr.webp",
+   "tags": [
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-yagodnaya-ghvachka-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Ягідна Жуйка",
+   "flavor": "Малина, Полуниця, Солодка жуйка",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-yagodnaya-ghvachka-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-yagidna-ghuyka-100-gr.webp",
+   "tags": [
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-420-light-line-yagidne-morozivo-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Ягідне Морозиво",
+   "flavor": "Морозиво, Полуниця, Чорниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 1,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tyutyun-420-light-line-yagidne-morozivo-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-Light-Line-yagidne-morozivo-100-gr.webp",
+   "tags": [
+    "berry",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-yagodnyy-mors-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Ягідний Морс",
+   "flavor": "Журавлина, Малина, Морс, Ожина, Чорниця",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 310,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-yagodnyy-mors-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-yagidniy-mors-100-gr.webp",
+   "tags": [
+    "berry",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-arahisovaya-pasta-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Арахісова Паста",
+   "flavor": "Арахіс, Вершки, Шоколад",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-arahisovaya-pasta-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-arahisova-pasta-100-gr.webp",
+   "tags": [
+    "nut",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-bananovo-orehovyy-desert-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Бананово Горіховий Десерт",
+   "flavor": "Банан, Горіх, Пиріг",
+   "strength": "light",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-bananovo-orehovyy-desert-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Bananovo-Orehovyy-Desert-100-gr.webp",
+   "tags": [
+    "tropical",
+    "nut",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-vanilynaya-kola-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Ванільна Кола",
+   "flavor": "Ваніль, Кола",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-vanilynaya-kola-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Vanilynaya-Kola-100-gr.webp",
+   "tags": [
+    "dessert",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-kryushon-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Крюшон",
+   "flavor": "Апельсин, Лимонад, Полуниця, Чорний виноград",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-kryushon-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Kryushon-100-gr.webp",
+   "tags": [
+    "citrus",
+    "drink",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-limonno-medovyy-holls-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Лимонно Медовий Холлс",
+   "flavor": "Лимон, Льодяник, Мед",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-limonno-medovyy-holls-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-420-light-line-limonno-medoviy-holls-100-gr.webp",
+   "tags": [
+    "dessert",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-marshmelou-klubnichnyy-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Маршмелоу Полуничний",
+   "flavor": "Маршмеллоу, Полуниця",
+   "strength": "light",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-marshmelou-klubnichnyy-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Marshmelou-Klubnichnyy-100-gr.webp",
+   "tags": [
+    "dessert",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-eghevichnyy-marmelad-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Ожиновий Мармелад",
+   "flavor": "Мармелад, Ожина",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-eghevichnyy-marmelad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Eghevichnyy-Marmelad-100-gr.webp",
+   "tags": [
+    "dessert",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-sinabon-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Сінабон",
+   "flavor": "Кориця",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": null,
+   "freshness": null,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-sinabon-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Sinabon-100-gr.webp",
+   "tags": [
+    "spice"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-slivochnyy-chay-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Сливовий Чай",
+   "flavor": "Слива, Чай",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-slivochnyy-chay-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Slivovyy-Chay-100-gr.webp",
+   "tags": [
+    "fruit",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-lolly-lips-citrusovyy-punsh-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Цитрусовий Пунш",
+   "flavor": "Мандарин, Маракуя",
+   "strength": "light",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-lolly-lips-citrusovyy-punsh-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Lolly-Lips-Citrusovyy-Punsh-100-gr.webp",
+   "tags": [
+    "citrus",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-420-light-line-yagody-s-melisoy-100-gr",
+   "brand": "420",
+   "line": "Light Line",
+   "name": "Ягоди з Мелісою",
+   "flavor": "Малина, Мелісса, Ожина, Чорниця",
+   "strength": "light",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 1,
+   "price": 310,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-4-20/tyutyun-420-light-line/tabak-420-light-line-100-gr/tabak-420-light-line-yagody-s-melisoy-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-420-Light-Line-Yagody-s-Melisoy-100-gr.webp",
+   "tags": [
+    "berry",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-limited-edition-umai-yumay-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Limited Edition Umai (Юмай)",
+   "flavor": "Персик, Чай",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-limited-edition-umai-yumay-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Limited-Edition-Umai-Yumay-100-gr.webp",
+   "tags": [
+    "fruit",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-acid-berry-eysid-yagoda-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Acid Berry (Ейсід Беррі)",
+   "flavor": "Журавлина, Ожина, Червона смородина",
+   "strength": "strong",
+   "sweetness": 2,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-acid-berry-eysid-yagoda-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Acid-Berry-Eysid-Yagoda-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-acid-lemon-eysid-limon-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Acid Lemon (Ейсід Лемон)",
+   "flavor": "Лимон",
+   "strength": "strong",
+   "sweetness": 0,
+   "sourness": 4,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-acid-lemon-eysid-limon-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Acid-Lemon-Eysid-Limon-100-gr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-berry-gelly-yagoda-ghele-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Berry Jelly (Ягода Желе)",
+   "flavor": "Джем, Малина, Ожина, Чорниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-berry-gelly-yagoda-ghele-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-berry-jelly-yagoda-ghele-100-gr.webp",
+   "tags": [
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-berry-lavender-yagoda-lavanda-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Berry Lavender (Ягода Лаванда)",
+   "flavor": "Лаванда, Малина, Ожина, Чорниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-berry-lavender-yagoda-lavanda-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Berry-Lavender-Yagoda-Lavanda-100-gr.webp",
+   "tags": [
+    "berry",
+    "floral"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-blackcurrant-chernaya-smorodina-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Blackcurrant (Чорна Смородина)",
+   "flavor": "Чорна смородина",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-blackcurrant-chernaya-smorodina-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Blackcurrant-Chernaya-Smorodina-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-caribbean-rum-karibskiy-rom-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Caribbean Rum (Карібіан Ром)",
+   "flavor": "Ром",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-caribbean-rum-karibskiy-rom-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Caribbean-Rum-Karibskiy-Rom-100-gr.webp",
+   "tags": [
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-cherry-shot-vishnya-shot-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Cherry Shot (Вишня Шот)",
+   "flavor": "Вишня, Льодяник",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 1,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-cherry-shot-vishnya-shot-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Cherry-Shot-Vishnya-Shot-100-gr.webp",
+   "tags": [
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-christmas-fizz-krismas-fizz-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Christmas Fizz (Крісмас Фізз)",
+   "flavor": "Ківі, Лимонад, Папая",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 2,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-christmas-fizz-krismas-fizz-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-christmas-fizz-krismas-fizz-100-hr.webp",
+   "tags": [
+    "tropical",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-citrus-spritz-citrus-spritc-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Citrus Spritz (Цитрус Шпріц)",
+   "flavor": "Апельсин, Грейпфрут, Лайм, Лимон",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 4,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-citrus-spritz-citrus-spritc-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Citrus-Spritz-Citrus-Spritc-100-gr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-coconut-shake-kokosovyy-sheyk-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Coconut Shake (Кокос Шейк)",
+   "flavor": "Кокос, Коктейль",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": null,
+   "freshness": null,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-coconut-shake-kokosovyy-sheyk-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Coconut-Shake-Kokos-Sheyk-100-gr.webp",
+   "tags": [
+    "tropical",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-cola-kola-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Cola (Кола)",
+   "flavor": "Кола",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-cola-kola-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Cola-Kola-100-gr.webp",
+   "tags": [
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-cranberry-mors-klyukva-mors-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Cranberry Mors (Журавлина Морс)",
+   "flavor": "Журавлина, Морс",
+   "strength": "strong",
+   "sweetness": 2,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-cranberry-mors-klyukva-mors-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Cranberry-Mors-Klyukva-Mors-100-gr.webp",
+   "tags": [
+    "berry",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-fresh-lemonade-fresh-limonad-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Fresh Lemonade (Фреш Лимонад)",
+   "flavor": "Лід, Лимонад",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 2,
+   "freshness": 3,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-fresh-lemonade-fresh-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Fresh-Lemonade-Fresh-Limonad-100-gr.webp",
+   "tags": [
+    "fresh",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-fruittella-fruttella-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Fruittella (Фруттелла)",
+   "flavor": "Апельсин, Зелене яблуко, Полуниця, Солодка жуйка, Ягоди",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-fruittella-fruttella-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Fruittella-Fruttella-100-gr.webp",
+   "tags": [
+    "berry",
+    "citrus",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-godzilla-godzilla-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Godzilla (Ґодзілла)",
+   "flavor": "Мохіто, Огірок",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 1,
+   "freshness": 2,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-godzilla-godzilla-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-godzilla-godzilla-100-gr.webp",
+   "tags": [
+    "fresh",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-grape-jelly-vinograd-ghele-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Grape Jelly (Виноград Желе)",
+   "flavor": "Виноград, Джем, Чорний виноград",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-grape-jelly-vinograd-ghele-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Grape-Jelly-Vinograd-Ghele-100-gr.webp",
+   "tags": [
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-gravefruit-hreyvfrut-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Gravefruit (Грейвфрут)",
+   "flavor": "Виноград, Вишня, Грейпфрут",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-gravefruit-hreyvfrut-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-gravefruit-hreyvfrut-100-hr.webp",
+   "tags": [
+    "fruit",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-green-apple-zelenoe-yabloko-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Green Apple (Зелене Яблуко)",
+   "flavor": "Зелене яблуко",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-green-apple-zelenoe-yabloko-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Green-Apple-Zelenoe-Yabloko-100-gr.webp",
+   "tags": [
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-guarana-berry-guarana-yagoda-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Guarana Berry (Гуарана Ягода)",
+   "flavor": "Гуарана, Малина, Ожина",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-guarana-berry-guarana-yagoda-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Guarana-Berry-Guarana-Yagoda-100-gr.webp",
+   "tags": [
+    "berry",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-kiwi-lemonade-kivi-limonad-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Kiwi Lemonade (Ківі Лимонад)",
+   "flavor": "Ківі, Лимонад",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 1,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-kiwi-lemonade-kivi-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-Urban-Collection-Kiwi-Lemonade-kivi-limonad-100-gr.webp",
+   "tags": [
+    "tropical",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-lemon-mint-sorbet-limon-myata-sorbet-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Lemon Mint Sorbet (Лимон М’ята Сорбет)",
+   "flavor": "Лимон, М'ята, Морозиво",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 3,
+   "freshness": 3,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-lemon-mint-sorbet-limon-myata-sorbet-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-Urban-Collection-Lemon-Mint-Sorbet-limon-myata-sorbet-100-gr.webp",
+   "tags": [
+    "citrus",
+    "fresh",
+    "creamy"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-mango-kiss-manho-kiss-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Mango Kiss (Манго Кісс)",
+   "flavor": "Малина, Манго, Мед",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-mango-kiss-manho-kiss-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-mango-kiss-manho-kiss-100-hr.webp",
+   "tags": [
+    "berry",
+    "tropical",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-orange-blossom-apelysin-blossom-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Orange Blossom (Оранж Блоссом)",
+   "flavor": "Апельсин, Сік",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-orange-blossom-apelysin-blossom-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Orange-Blossom-Apelysin-Blossom-100-gr.webp",
+   "tags": [
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-pineapple-candy-ananas-konfety-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Pineapple Candy (Ананас Цукерка)",
+   "flavor": "Ананас, Льодяник",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 1,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-pineapple-candy-ananas-konfety-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Pineapple-Candy-Ananas-Konfety-100-gr.webp",
+   "tags": [
+    "tropical",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-pink-grapefruit-pink-greypfrut-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Pink Grapefruit (Пінк Грейпфрут)",
+   "flavor": "Грейпфрут",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-pink-grapefruit-pink-greypfrut-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Pink-Grapefruit-Pink-Greypfrut-100-gr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-pink-stoner-klubnika-greypfrut-malina-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Pink Stoner (Пінк Стоунер)",
+   "flavor": "Грейпфрут, Малина, Полуниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-pink-stoner-klubnika-greypfrut-malina-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Pink-Stoner-Pink-Stouner-100-gr.webp",
+   "tags": [
+    "berry",
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-rosomaha-rosomaha-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Rosomaha (Росомаха)",
+   "flavor": "Грейпфрут, Ківі, Полуниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-rosomaha-rosomaha-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-rosomaha-rosomaha-100-gr.webp",
+   "tags": [
+    "citrus",
+    "tropical",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-santas-exotic-drink-santas-ekzotik-drink-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Santa's Exotic Drink (Сантас Екзотік Дрінк)",
+   "flavor": "Апельсин, Лохина, Тропічні фрукти",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-santas-exotic-drink-santas-ekzotik-drink-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-santas-exotic-drink-santas-ekzotik-drink-100-hr.webp",
+   "tags": [
+    "citrus",
+    "berry",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-slimer-slimer-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Slimer (Слімер)",
+   "flavor": "Кокос, Лайм, Молоко",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-slimer-slimer-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-slimer-slimer-100-hr.webp",
+   "tags": [
+    "tropical",
+    "citrus",
+    "creamy"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-sour-marulla-sauer-marula-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Sour Marulla (Сауер Марула)",
+   "flavor": "Марула",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-sour-marulla-sauer-marula-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-Urban-Collection-Sour-Marulla-sauer-marula-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-star-story-star-stori-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Star Story (Стар Сторі)",
+   "flavor": "Карамболь, Манго",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-star-story-star-stori-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-star-story-star-stori-100-hr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-strawberry-tic-tac-klubnichnyy-tik-tak-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Strawberry Tic-Tac (Полуниця Тік-Так)",
+   "flavor": "Полуниця, Тік-Так",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-strawberry-tic-tac-klubnichnyy-tik-tak-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Strawberry-Tic-Tac-Klubnichnyy-Tik-Tak-100-gr.webp",
+   "tags": [
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-voltage-gum-voltazh-ham-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Voltage Gum (Вольтаж Гам)",
+   "flavor": "Гуава, Енергетик, Солодка жуйка",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 1,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-voltage-gum-voltazh-ham-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-voltage-gum-voltazh-ham-100-hr.webp",
+   "tags": [
+    "tropical",
+    "drink",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-wild-berries-zemlyanika-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Wild Berries (Суниця)",
+   "flavor": "Суниця",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-wild-berries-zemlyanika-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Wild-Berries-Zemlyanika-100-gr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-x-aladin-pineapple-grapefruit-lemon-ananas-greypfrut-limon-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "x Aladin Pineapple Grapefruit Lemon (Ананас Грейпфрут Лимон)",
+   "flavor": "Ананас, Грейпфрут, Лимон",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-x-aladin-pineapple-grapefruit-lemon-ananas-greypfrut-limon-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-x-Aladin-Pineapple-Grapefruit-Lemon-ananas-greypfrut-limon-100-gr.webp",
+   "tags": [
+    "citrus",
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-x-lebiga-berry-lemonade-yagoda-limonad-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "x Lebiga Berry Lemonade (Ягода Лимонад)",
+   "flavor": "Лимонад, Малина, Чорниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 1,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-x-lebiga-berry-lemonade-yagoda-limonad-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tabak-Unity-x-Lebiga-Berry-Lemonade-yagoda-limonad-100-gr.webp",
+   "tags": [
+    "berry",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-x-lebiga-cristmas-vibe-kristmas-vayb-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "x Lebiga Cristmas Vibe (Крістмас Вайб)",
+   "flavor": "Какао, Маршмеллоу, Полуниця",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-x-lebiga-cristmas-vibe-kristmas-vayb-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-x-lebiga-cristmas-vibe-kristmas-vayb-100-gr.webp",
+   "tags": [
+    "dessert",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-bad-karma-kosmopoliten-malina-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Bad Karma (Бед Карма)",
+   "flavor": "Коктейль, Лікер, Малина",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-bad-karma-kosmopoliten-malina-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Bad-Karma-Bed-Karma-100-gr.webp",
+   "tags": [
+    "drink",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-bamboo-bambuk-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Bamboo (Бамбук)",
+   "flavor": "Бамбук",
+   "strength": "strong",
+   "sweetness": 2,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-bamboo-bambuk-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-Urban-Collection-Bamboo-bambuk-100-gr.webp",
+   "tags": [
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-berry-mochi-yagodi-moti-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Berry Mochi (Ягоди Моті)",
+   "flavor": "Моті, Ягоди",
+   "strength": "strong",
+   "sweetness": 5,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-berry-mochi-yagodi-moti-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-Urban-Collection-Berry-Mochi-yagodi-moti-100-gr.webp",
+   "tags": [
+    "dessert",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-brazilian-tea-brazilyskiy-chay-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Brazilian Tea (Бразіліан Ті)",
+   "flavor": "Лимон, Чай",
+   "strength": "strong",
+   "sweetness": 0,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-brazilian-tea-brazilyskiy-chay-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Brazilian-Tea-Brazilyskiy-Chay-100-gr.webp",
+   "tags": [
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-brownie-brauni-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Brownie (Брауні)",
+   "flavor": "Пиріг, Шоколад",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-brownie-brauni-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Brownie-Brauni-100-gr.webp",
+   "tags": [
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-bubble-tea-babl-chay-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Bubble Tea (Бабл Ті)",
+   "flavor": "Мармелад, Молоко, Чай",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-bubble-tea-babl-chay-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-Urban-Collection-Bubble-Tea-babl-chay-100-gr.webp",
+   "tags": [
+    "dessert",
+    "creamy",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-dragon-passion-dragon-marakuyya-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Dragon Passion (Драгон Маракуя)",
+   "flavor": "Маракуя, Пітая",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-dragon-passion-dragon-marakuyya-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Dragon-Passion-Dragon-Marakuyya-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-dream-catcher-drim-keche-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Dream Catcher (Дрім Кече)",
+   "flavor": "Ваніль, Журавлина, Полуниця",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-dream-catcher-drim-keche-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Dream-Catcher-Drim-Keche-100-gr.webp",
+   "tags": [
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-english-tea-inglish-chay-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "English Tea (Інгліш Ті)",
+   "flavor": "Бергамот, Згущене молоко, Печиво",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-english-tea-inglish-chay-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-English-Tea-Inglish-Chay-100-gr.webp",
+   "tags": [
+    "citrus",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-karmik-tail-karmik-teyl-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Karmik Tail (Кармік Тейл)",
+   "flavor": "Лимон, Малина, Хвоя",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 2,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-karmik-tail-karmik-teyl-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Karmik-Tail-Karmik-Teyl-100-gr.webp",
+   "tags": [
+    "citrus",
+    "berry",
+    "fresh"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-mango-ice-cream-mango-moroghenoe-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Mango Ice Cream (Манго Морозиво)",
+   "flavor": "Манго, Морозиво",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 1,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-mango-ice-cream-mango-moroghenoe-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Mango-Ice-Cream-Mango-Moroghenoe-100-gr.webp",
+   "tags": [
+    "tropical",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-pear-anormal-anomalna-hrusha-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Pear Anormal (Пір Енормал)",
+   "flavor": "Груша, Маракуя, Тропічні фрукти",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-pear-anormal-anomalna-hrusha-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-pear-anormal-anomalna-hrusha-100-hr.webp",
+   "tags": [
+    "tropical",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-urban-collection-purple-nectar-porpl-nektar-100-hr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Purple Nectar (Пьорпл Нектар)",
+   "flavor": "Бузок, Лимон, Мед, Юдзу",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 1,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-urban-collection-purple-nectar-porpl-nektar-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-urban-collection-purple-nectar-porpl-nektar-100-hr.webp",
+   "tags": [
+    "citrus",
+    "floral",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-rainbow-candy-reynbou-konfety-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Rainbow Candy (Рейнбоу Кенді)",
+   "flavor": "Ананас, Льодяник, Персик, Ягоди",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 2,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-rainbow-candy-reynbou-konfety-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Rainbow-Candy-Reynbou-Konfety-100-gr.webp",
+   "tags": [
+    "tropical",
+    "dessert",
+    "fruit"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-raspberry-sorbet-malina-sorbet-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Raspberry Sorbet (Малина Сорбет)",
+   "flavor": "Малина, Морозиво",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 1,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-raspberry-sorbet-malina-sorbet-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Raspberry-Sorbet-Malina-Sorbet-100-gr.webp",
+   "tags": [
+    "berry",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-salvia-shalfey-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Salvia (Шавлія)",
+   "flavor": "Шавлія",
+   "strength": "strong",
+   "sweetness": 1,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-salvia-shalfey-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Salvia-Shalfey-100-gr.webp",
+   "tags": [
+    "spice"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-space-flavor-speys-flevo-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Space Flavor (Спейс Флево)",
+   "flavor": "Лічі, Манго, Маракуя",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-space-flavor-speys-flevo-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-Urban-Collection-Space-Flavor-speys-flevo-100-gr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-tropic-rave-tropik-reyv-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Tropic Rave (Тропік Рейв)",
+   "flavor": "Ананас, Апельсин, Ківі, Пітая, Папая, Сік",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-tropic-rave-tropik-reyv-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Tropic-Rave-Tropik-Reyv-100-gr.webp",
+   "tags": [
+    "tropical",
+    "citrus",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tabak-unity-urban-collection-turbo-turbo-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "Turbo (Турбо)",
+   "flavor": "Диня, Жуйка, Кавун",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 2,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tabak-unity-urban-collection-turbo-turbo-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/Tabak-Unity-Urban-Collection-Turbo-Turbo-100-gr.webp",
+   "tags": [
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-x-aladin-pear-tea-grusha-chay-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "x Aladin Pear Tea (Груша Чай)",
+   "flavor": "Груша, Чай",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-x-aladin-pear-tea-grusha-chay-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-Unity-x-Aladin-Pear-Tea-grusha-chay-100-gr.webp",
+   "tags": [
+    "fruit",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-x-lebiga-campagne-papi-shampany-papi-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "x Lebiga Champagne Papi (Шампань Папі)",
+   "flavor": "Шампанське, Ягоди",
+   "strength": "strong",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-x-lebiga-campagne-papi-shampany-papi-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-unity-x-lebiga-campagne-papi-shampany-papi-100-gr.webp",
+   "tags": [
+    "drink",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-unity-x-lebiga-watermelon-ice-cream-kavun-morozivo-100-gr",
+   "brand": "Unity",
+   "line": "Urban Collection",
+   "name": "x Lebiga Watermelon Ice Cream (Кавун Морозиво)",
+   "flavor": "Кавун, Морозиво",
+   "strength": "strong",
+   "sweetness": 3,
+   "sourness": 0,
+   "freshness": 1,
+   "price": 390,
+   "inStock": false,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tabak-unity/-tabak-unity-urban-collection/tabak-unity-urban-collection-100-gr/tyutyun-unity-x-lebiga-watermelon-ice-cream-kavun-morozivo-100-gr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tabak-Unity-x-Lebiga-Watermelon-Ice-Cream-arbuz-moroghenoe-100-gr.webp",
+   "tags": [
+    "fruit",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-by-marat_honey-med-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "by marat_honey Мед",
+   "flavor": "Мед",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-by-marat_honey-med-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-by-marat_honey-med-100-hr.webp",
+   "tags": [
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-ays-kendi-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Айс Кенді",
+   "flavor": "Лід, М'ята, Цукерки",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 5,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-ays-kendi-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-ays-kendi-100-hr.webp",
+   "tags": [
+    "fresh",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-barbarys-tsukerka-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Барбарис Цукерка",
+   "flavor": "Барбарис, Цукерки",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-barbarys-tsukerka-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-barbarys-tsukerka-100-hr.webp",
+   "tags": [
+    "berry",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-vyshnya-tsukerka-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Вишня Цукерка",
+   "flavor": "Вишня, Цукерки",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-vyshnya-tsukerka-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-vyshnya-tsukerka-100-hr.webp",
+   "tags": [
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-hrusha-dzhem-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Груша Джем",
+   "flavor": "Груша, Джем",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-hrusha-dzhem-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-hrusha-dzhem-100-hr.webp",
+   "tags": [
+    "fruit",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-zelenyy-laym-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Зелений Лайм",
+   "flavor": "Лайм",
+   "strength": "medium",
+   "sweetness": 0,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-zelenyy-laym-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-zelenyy-laym-100-hr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-yoshta-agrus-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Йошта Аґрус",
+   "flavor": "Аґрус, Йошта",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-yoshta-agrus-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-yoshta-agrus-100-hr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-kavun-morozyvo-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Кавун Морозиво",
+   "flavor": "Кавун, Морозиво",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 1,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-kavun-morozyvo-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-kavun-morozyvo-100-hr.webp",
+   "tags": [
+    "fruit",
+    "creamy",
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-kyslyucha-malyna-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Кислюча Малина",
+   "flavor": "Малина",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-kyslyucha-malyna-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-kyslyucha-malyna-100-hr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-lichi-polunytsya-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Лічі Полуниця",
+   "flavor": "Лічі, Полуниця",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-lichi-polunytsya-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-lichi-polunytsya-100-hr.webp",
+   "tags": [
+    "tropical",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-lohan-frukt-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Логан Фрукт",
+   "flavor": "Лонган",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-lohan-frukt-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-lohan-frukt-100-hr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-pomelo-lymon-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Помело Лимон",
+   "flavor": "Лимон, Помело",
+   "strength": "medium",
+   "sweetness": 1,
+   "sourness": 4,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-pomelo-lymon-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-pomelo-lymon-100-hr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-rozhevyy-babl-ham-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Рожевий Бабл Гам",
+   "flavor": "Солодка жуйка",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-rozhevyy-babl-ham-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-rozhevyy-babl-ham-100-hr.webp",
+   "tags": [
+    "dessert"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-sydr-yabluko-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Сидр Яблуко",
+   "flavor": "Зелене яблуко, Сидр",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-sydr-yabluko-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-sydr-yabluko-100-hr.webp",
+   "tags": [
+    "fruit",
+    "drink"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-tarkhun-travyanyy-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Тархун Трав’яний",
+   "flavor": "Лимонад, Тархун",
+   "strength": "medium",
+   "sweetness": 2,
+   "sourness": 0,
+   "freshness": 1,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-tarkhun-travyanyy-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-tarkhun-travyanyy-100-hr.webp",
+   "tags": [
+    "drink",
+    "spice"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-tropichna-baza-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Тропічна База",
+   "flavor": "Тропічні фрукти",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 1,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-tropichna-baza-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-tropichna-baza-100-hr.webp",
+   "tags": [
+    "tropical"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-tsytrusova-baza-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Цитрусова База",
+   "flavor": "Цитрус",
+   "strength": "medium",
+   "sweetness": 1,
+   "sourness": 4,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-tsytrusova-baza-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-tsytrusova-baza-100-hr.webp",
+   "tags": [
+    "citrus"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-chervona-smorodyna-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Червона Смородина",
+   "flavor": "Червона смородина",
+   "strength": "medium",
+   "sweetness": 1,
+   "sourness": 2,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-chervona-smorodyna-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-chervona-smorodyna-100-hr.webp",
+   "tags": [
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-shovkovytsya-smuzi-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Шовковиця Смузі",
+   "flavor": "Смузі, Шовковиця",
+   "strength": "medium",
+   "sweetness": 4,
+   "sourness": 0,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-shovkovytsya-smuzi-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-shovkovytsya-smuzi-100-hr.webp",
+   "tags": [
+    "drink",
+    "berry"
+   ]
+  },
+  {
+   "id": "aladin:tyutyun-custom-yahidna-baza-100-hr",
+   "brand": "Custom",
+   "line": "",
+   "name": "Ягідна База",
+   "flavor": "Ягоди",
+   "strength": "medium",
+   "sweetness": 3,
+   "sourness": 3,
+   "freshness": 0,
+   "price": 350,
+   "inStock": true,
+   "url": "https://aladin-kyiv.com/ua/tabak-dlya-kalyana/tyutyun-custom/tyutyun-custom-100-hr/tyutyun-custom-yahidna-baza-100-hr.html",
+   "img": "https://aladin-kyiv.com/images/products/resize/tyutyun-custom-yahidna-baza-100-hr.webp",
+   "tags": [
+    "berry"
+   ]
+  }
+ ]
+}

@@ -24,6 +24,9 @@
     <section id="tab-mix" class="tab active" aria-label="Мікс">
       <div id="rate-last"></div>
 
+      <h2 class="section-title">З чого обирати</h2>
+      <div id="sources" class="chips"></div>
+
       <h2 class="section-title">Настрій</h2>
       <div id="moods" class="chips"></div>
 
@@ -32,23 +35,27 @@
       <div id="mix-result"></div>
     </section>
 
-    <!-- Колекція -->
-    <section id="tab-collection" class="tab" aria-label="Колекція">
-      <div class="row">
-        <input id="search" class="input" type="search" placeholder="Пошук табаку…" autocomplete="off">
-        <button id="btn-add" class="btn btn-primary">+ Додати</button>
-      </div>
-      <div class="chips chips-small" id="stock-filter"></div>
-      <div id="collection-list"></div>
+    <!-- Каталог -->
+    <section id="tab-catalog" class="tab" aria-label="Каталог">
+      <input id="search" class="input" type="search" placeholder="Пошук: назва або смак…" autocomplete="off">
+      <div class="chips chips-small" id="brand-filter"></div>
+      <div class="chips chips-small" id="catalog-filter"></div>
+      <div id="catalog-list"></div>
 
+      <p id="catalog-info" class="muted small"></p>
       <details class="backup">
-        <summary>Бекап даних</summary>
-        <p class="muted">Дані зберігаються тільки на цьому телефоні. Зроби бекап, щоб не загубити колекцію та історію.</p>
+        <summary>Бекап моїх даних</summary>
+        <p class="muted">Оцінки, коментарі, «є вдома» та історія зберігаються тільки на цьому телефоні. Зроби бекап, щоб не загубити їх.</p>
         <div class="row">
           <button id="btn-export" class="btn">Зберегти файл</button>
           <label class="btn">Відновити з файлу<input id="file-import" type="file" accept="application/json,.json" hidden></label>
         </div>
       </details>
+    </section>
+
+    <!-- Топ -->
+    <section id="tab-top" class="tab" aria-label="Топ">
+      <div id="top-content"></div>
     </section>
 
     <!-- Історія -->
@@ -60,29 +67,36 @@
 
   <nav class="tabbar">
     <button data-tab="mix" class="active"><span>🎲</span>Мікс</button>
-    <button data-tab="collection"><span>📦</span>Колекція</button>
+    <button data-tab="catalog"><span>📦</span>Каталог</button>
+    <button data-tab="top"><span>🏆</span>Топ</button>
     <button data-tab="history"><span>🕓</span>Історія</button>
   </nav>
 
+  <!-- Картка табаку -->
   <dialog id="tobacco-dialog">
     <form id="tobacco-form" method="dialog">
-      <h2 id="dialog-title">Новий табак</h2>
-      <label class="field">Смак *
-        <input class="input" name="name" required maxlength="60" placeholder="Напр. Полуниця з лаймом">
-      </label>
-      <label class="field">Бренд
-        <input class="input" name="brand" maxlength="40" placeholder="Напр. Darkside">
-      </label>
-      <div class="field">Категорії смаку * <span class="muted">(1–3)</span>
-        <div id="tag-picker" class="chips chips-small"></div>
+      <div class="detail-head">
+        <img id="d-img" alt="" width="88" height="88" loading="lazy" hidden>
+        <div class="detail-title">
+          <div id="d-brand" class="muted"></div>
+          <h2 id="d-name"></h2>
+          <div id="d-flavor"></div>
+        </div>
       </div>
-      <label class="field">Міцність
-        <select class="input" name="strength" id="strength-select"></select>
+      <div id="d-tags" class="d-tags muted"></div>
+      <div id="d-stats" class="stats"></div>
+      <div id="d-shop" class="shop-row"></div>
+
+      <div class="field">Моя оцінка
+        <div id="d-stars" class="stars stars-big" role="radiogroup" aria-label="Оцінка"></div>
+        <div id="d-stars-hint" class="muted small"></div>
+      </div>
+      <label class="field">Мій коментар
+        <textarea class="input" name="comment" rows="3" maxlength="500" placeholder="Напр. добре з м'ятою, міцнуватий…"></textarea>
       </label>
-      <label class="check"><input type="checkbox" name="inStock" checked> Є вдома</label>
-      <p id="form-error" class="error" hidden></p>
+      <label class="check"><input type="checkbox" name="home"> 🏠 Є вдома</label>
       <div class="row row-end">
-        <button type="button" class="btn" id="btn-cancel">Скасувати</button>
+        <button type="button" class="btn" id="btn-cancel">Закрити</button>
         <button type="submit" class="btn btn-primary">Зберегти</button>
       </div>
     </form>

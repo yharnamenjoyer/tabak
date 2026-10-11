@@ -1,11 +1,13 @@
 // Офлайн-режим: спершу мережа (щоб оновлення приходили одразу), без мережі — кеш.
-const CACHE = 'tabak-v1';
+const CACHE = 'tabak-v2';
 const FILES = [
   './',
   'index.html',
   'style.css',
   'manifest.webmanifest',
+  'data/catalog.json',
   'js/app.js',
+  'js/catalog.js',
   'js/store.js',
   'js/mixer.js',
   'js/flavors.js',
